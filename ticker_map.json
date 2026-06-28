@@ -2948,5 +2948,57 @@
     "ticker": "MTX",
     "sec_name": "MINERALS TECHNOLOGIES INC",
     "similarity": 1.0000000000000002
+  },
+  "Genentech, Inc.": {
+    "ticker": "RHHBY",
+    "similarity": 1.0
+  },
+  "HOFFMANN-LA ROCHE INC.": {
+    "ticker": "RHHBY",
+    "similarity": 1.0
+  },
+  "Roche Diagnostics Operations, Inc.": {
+    "ticker": "RHHBY",
+    "similarity": 1.0
+  },
+  "Roche Diagnostics GMBH": {
+    "ticker": "RHHBY",
+    "similarity": 1.0
+  },
+  "Roche Molecular Systems, Inc.": {
+    "ticker": "RHHBY",
+    "similarity": 1.0
+  },
+  "Roche Palo Alto LLC": {
+    "ticker": "RHHBY",
+    "similarity": 1.0
+  },
+  "Roche Diabetes Care, Inc.": {
+    "ticker": "RHHBY",
+    "similarity": 1.0
+  },
+  "Lonza AG": {
+    "ticker": "LZAGY",
+    "similarity": 1.0
+  },
+  "Lonza Group AG": {
+    "ticker": "LZAGY",
+    "similarity": 1.0
+  },
+  "Straumann Holding AG": {
+    "ticker": "SAUHY",
+    "similarity": 1.0
+  },
+  "Sika AG": {
+    "ticker": "SXYAY",
+    "similarity": 1.0
+  },
+  "Alcon Inc.": {
+    "ticker": "ALC",
+    "similarity": 1.0
+  },
+  "ALCON RESEARCH, LTD.": {
+    "ticker": "ALC",
+    "similarity": 1.0
   }
 }
