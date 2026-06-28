@@ -87,6 +87,14 @@ def load_ticker_map():
         raw = json.load(f)
     return {c: (i.get("ticker") if isinstance(i,dict) else str(i)) for c,i in raw.items()}
 
+@st.cache_data
+def load_names():
+    f = DATA_DIR / "ticker_names.csv"
+    if f.exists():
+        df = pd.read_csv(f)
+        return dict(zip(df["ticker"], df["name"]))
+    return {}
+
 def norm_to_percentile(z):
     from scipy.stats import norm
     return norm.cdf(z) * 100
@@ -119,6 +127,7 @@ with st.sidebar:
     compare_ticker = st.text_input("", value="", placeholder="Compare with...").upper().strip()
     st.markdown("---")
     df = load_data()
+    names = load_names()
     year_min = int(df["grant_year"].min()) if not df.empty else 2000
     year_max = int(df["grant_year"].max()) if not df.empty else 2018
     year_range = st.slider("Year range", year_min, year_max, (2010, year_max))
@@ -137,6 +146,28 @@ Position vs sector peers.
 **Model:** XGBoost M6, AUC 0.747
 **Data:** 4.1M USPTO patents, PatentsView
         """)
+    st.markdown("---")
+    st.markdown("### Get full access")
+    st.markdown("""
+**Free tier** — Current access
+- 667 companies
+- Historical data 2000–2018
+- Sector comparison
+
+**Pro** — €149/month
+- Full S&P 500 + Russell 1000
+- Data updated quarterly
+- Export to CSV
+- API access
+- Priority support
+    """)
+    st.markdown(
+        '<a href="mailto:sebastianfrery28@gmail.com?subject=Patent Quality Intelligence - Pro Access'
+        '&body=Hi, I am interested in Pro access to Patent Quality Intelligence." '
+        'style="display:inline-block;background:#4CAF50;color:white;padding:10px 20px;'
+        'border-radius:8px;text-decoration:none;font-weight:bold;width:100%;'
+        'text-align:center;box-sizing:border-box;">Request Pro Access</a>',
+        unsafe_allow_html=True)
     st.markdown("---")
     st.caption("Not financial advice.")
 
@@ -194,9 +225,11 @@ elif delta_trend < -0.1: trend_html = '<span class="trend-down">Declining</span>
 else:                    trend_html = '<span class="trend-flat">Stable</span>'
 
 # ── Header ────────────────────────────────────────────────────────────────────
+company_name = names.get(ticker_input, ticker_input)
 h1, h2 = st.columns([3,1])
 with h1:
-    st.markdown(f"# {ticker_input}")
+    st.markdown(f"# {company_name}")
+    st.caption(f"Ticker: **{ticker_input}**")
     st.markdown(
         f'<span class="sector-badge">{sector}</span>  '
         f'<span class="rank-badge">#{rank_pos} of {total_in_sector} in sector</span>',
