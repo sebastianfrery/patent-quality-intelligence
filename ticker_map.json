@@ -1220,9 +1220,9 @@
     "similarity": 0.7459864581208643
   },
   "Automotive Technologies International, Inc.": {
-    "ticker": "GPI",
-    "sec_name": "GROUP 1 AUTOMOTIVE INC",
-    "similarity": 0.9079363260797577
+    "ticker": "ORLY",
+    "similarity": 0.6959620206941513,
+    "sp500_name": "O\u2019Reilly Automotive"
   },
   "Veeco Instruments Inc.": {
     "ticker": "VECO",
@@ -3000,5 +3000,860 @@
   "ALCON RESEARCH, LTD.": {
     "ticker": "ALC",
     "similarity": 1.0
+  },
+  "3M Company": {
+    "ticker": "MMM",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "3M"
+  },
+  "AbbVie Inc.": {
+    "ticker": "ABBV",
+    "similarity": 1.0,
+    "sp500_name": "AbbVie"
+  },
+  "Airbnb, Inc.": {
+    "ticker": "ABNB",
+    "similarity": 1.0,
+    "sp500_name": "Airbnb"
+  },
+  "Allegion, Inc.": {
+    "ticker": "ALLE",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Allegion"
+  },
+  "m.Alphabet 2, LLC": {
+    "ticker": "GOOG",
+    "similarity": 0.7378250840799568,
+    "sp500_name": "Alphabet Inc. (Class C)"
+  },
+  "Amcor Limited": {
+    "ticker": "AMCR",
+    "similarity": 1.0,
+    "sp500_name": "Amcor"
+  },
+  "APA Optics, Inc.": {
+    "ticker": "APA",
+    "similarity": 0.6766704912361152,
+    "sp500_name": "APA Corporation"
+  },
+  "APTIV TECHNOLOGIES AG": {
+    "ticker": "APTV",
+    "similarity": 0.9243769778498373,
+    "sp500_name": "Aptiv"
+  },
+  "ARISTA NETWORKS, INC.": {
+    "ticker": "ANET",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Arista Networks"
+  },
+  "AUTOMATIC DATA PROCESSING, INC.": {
+    "ticker": "ADP",
+    "similarity": 1.0,
+    "sp500_name": "Automatic Data Processing"
+  },
+  "AutoZone, Inc.": {
+    "ticker": "AZO",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "AutoZone"
+  },
+  "Axon Enterprise, Inc.": {
+    "ticker": "AXON",
+    "similarity": 0.9999999999999999,
+    "sp500_name": "Axon Enterprise"
+  },
+  "Buy.com, Inc.": {
+    "ticker": "BBY",
+    "similarity": 0.6730701848258632,
+    "sp500_name": "Best Buy"
+  },
+  "BIO-TECHNE CORPORATION": {
+    "ticker": "TECH",
+    "similarity": 1.0,
+    "sp500_name": "Bio-Techne"
+  },
+  "BOOKING.COM B.V.": {
+    "ticker": "BKNG",
+    "similarity": 0.8566138762965063,
+    "sp500_name": "Booking Holdings"
+  },
+  "Broadcom Corporation": {
+    "ticker": "AVGO",
+    "similarity": 1.0,
+    "sp500_name": "Broadcom"
+  },
+  "Broadridge Financial Solutions, Inc.": {
+    "ticker": "BR",
+    "similarity": 1.0,
+    "sp500_name": "Broadridge Financial Solutions"
+  },
+  "Robinson Metal, Inc.": {
+    "ticker": "CHRW",
+    "similarity": 0.7975091241705351,
+    "sp500_name": "C.H. Robinson"
+  },
+  "CARNIVAL CORPORATION": {
+    "ticker": "CCL",
+    "similarity": 1.0,
+    "sp500_name": "Carnival Corporation"
+  },
+  "CARRIER CORPORATION": {
+    "ticker": "CARR",
+    "similarity": 0.7549309372094907,
+    "sp500_name": "Carrier Global"
+  },
+  "Earvana\u00c3\u201a\u00c2\u00ae, LLC": {
+    "ticker": "CVNA",
+    "similarity": 0.7267752876656539,
+    "sp500_name": "Carvana"
+  },
+  "CDW LLC": {
+    "ticker": "CDW",
+    "similarity": 1.0,
+    "sp500_name": "CDW Corporation"
+  },
+  "International Industries, Inc.": {
+    "ticker": "CF",
+    "similarity": 0.7450833490987805,
+    "sp500_name": "CF Industries"
+  },
+  "Charles River Laboratories, Inc.": {
+    "ticker": "CRL",
+    "similarity": 1.0,
+    "sp500_name": "Charles River Laboratories"
+  },
+  "Charter Communications, LLC": {
+    "ticker": "CHTR",
+    "similarity": 1.0,
+    "sp500_name": "Charter Communications"
+  },
+  "CHIPOTLE MEXICAN GRILL, INC.": {
+    "ticker": "CMG",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Chipotle Mexican Grill"
+  },
+  "Cintas Corporation": {
+    "ticker": "CTAS",
+    "similarity": 1.0,
+    "sp500_name": "Cintas"
+  },
+  "COGNIZANT BUSINESS SERVICES LIMITED": {
+    "ticker": "CTSH",
+    "similarity": 0.7196669014790827,
+    "sp500_name": "Cognizant"
+  },
+  "Comfort Technologies, Inc.": {
+    "ticker": "FIX",
+    "similarity": 0.8728266353585391,
+    "sp500_name": "Comfort Systems USA"
+  },
+  "The Cooper Companies GLobal Holdings LP": {
+    "ticker": "COO",
+    "similarity": 0.8087992263844425,
+    "sp500_name": "Cooper Companies (The)"
+  },
+  "Copart, Inc.": {
+    "ticker": "CPRT",
+    "similarity": 1.0,
+    "sp500_name": "Copart"
+  },
+  "Corning O.T.I.": {
+    "ticker": "GLW",
+    "similarity": 0.8635362021755535,
+    "sp500_name": "Corning Inc."
+  },
+  "Arteva Technologies, S.A.R.L.": {
+    "ticker": "CTVA",
+    "similarity": 0.6532570683709799,
+    "sp500_name": "Corteva"
+  },
+  "CRH Medical Corporation": {
+    "ticker": "CRH",
+    "similarity": 0.8006381806940115,
+    "sp500_name": "CRH plc"
+  },
+  "CrowdStrike, Inc.": {
+    "ticker": "CRWD",
+    "similarity": 1.0000000000000004,
+    "sp500_name": "CrowdStrike"
+  },
+  "CSX TRANSPORTATION, INC.": {
+    "ticker": "CSX",
+    "similarity": 0.6365454343667922,
+    "sp500_name": "CSX Corporation"
+  },
+  "Health Technology Co., Ltd,": {
+    "ticker": "ELV",
+    "similarity": 0.6304373125986409,
+    "sp500_name": "Elevance Health"
+  },
+  "DANAHER CORPORATION": {
+    "ticker": "DHR",
+    "similarity": 1.0,
+    "sp500_name": "Danaher Corporation"
+  },
+  "Darden Restaurants, Inc.": {
+    "ticker": "DRI",
+    "similarity": 1.0,
+    "sp500_name": "Darden Restaurants"
+  },
+  "DATADOT TECHNOLOGY LIMITED": {
+    "ticker": "DDOG",
+    "similarity": 0.6229523703191981,
+    "sp500_name": "Datadog"
+  },
+  "AViTA Corporation": {
+    "ticker": "DVA",
+    "similarity": 0.7015073537723489,
+    "sp500_name": "DaVita"
+  },
+  "DELL INC.": {
+    "ticker": "DELL",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Dell Technologies"
+  },
+  "DELTA AIR LINES, INC.": {
+    "ticker": "DAL",
+    "similarity": 0.9999999999999999,
+    "sp500_name": "Delta Air Lines"
+  },
+  "Devon IT, Inc.": {
+    "ticker": "DVN",
+    "similarity": 0.6761830501364426,
+    "sp500_name": "Devon Energy"
+  },
+  "Dexcom, Inc.": {
+    "ticker": "DXCM",
+    "similarity": 1.0,
+    "sp500_name": "Dexcom"
+  },
+  "Diamondback Group": {
+    "ticker": "FANG",
+    "similarity": 0.8844062257174216,
+    "sp500_name": "Diamondback Energy"
+  },
+  "THE DOMINO CORPORATION": {
+    "ticker": "DPZ",
+    "similarity": 0.9821311451612347,
+    "sp500_name": "Domino's"
+  },
+  "Dover Systems, Inc.": {
+    "ticker": "DOV",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Dover Corporation"
+  },
+  "Dow Technologies LLC": {
+    "ticker": "DOW",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Dow Inc."
+  },
+  "HORTON, INC.": {
+    "ticker": "DHI",
+    "similarity": 0.9216493946250562,
+    "sp500_name": "D. R. Horton"
+  },
+  "ECHOSTAR TECHNOLOGIES INTERNATIONAL CORPORATION": {
+    "ticker": "ECHO",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "EchoStar"
+  },
+  "EOG Resources, Inc.": {
+    "ticker": "EOG",
+    "similarity": 1.0,
+    "sp500_name": "EOG Resources"
+  },
+  "EQT IP Ventures, LLC": {
+    "ticker": "EQT",
+    "similarity": 0.7041278699607544,
+    "sp500_name": "EQT Corporation"
+  },
+  "EQUIFAX INC.": {
+    "ticker": "EFX",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Equifax"
+  },
+  "Expander Energy, Inc.": {
+    "ticker": "EXE",
+    "similarity": 0.8762740858529192,
+    "sp500_name": "Expand Energy"
+  },
+  "Expedia, Inc.": {
+    "ticker": "EXPE",
+    "similarity": 1.0000000000000004,
+    "sp500_name": "Expedia Group"
+  },
+  "Expedite International": {
+    "ticker": "EXPD",
+    "similarity": 0.7303707631992417,
+    "sp500_name": "Expeditors International"
+  },
+  "F5 Networks, Inc.": {
+    "ticker": "FFIV",
+    "similarity": 0.7099935769287536,
+    "sp500_name": "F5, Inc."
+  },
+  "Fasten Group Company, Ltd.": {
+    "ticker": "FAST",
+    "similarity": 0.7024717982789372,
+    "sp500_name": "Fastenal"
+  },
+  "FedEx Corporation": {
+    "ticker": "FDXF",
+    "similarity": 0.6651592727563633,
+    "sp500_name": "FedEx Freight"
+  },
+  "First Solar, Inc.": {
+    "ticker": "FSLR",
+    "similarity": 0.9999999999999997,
+    "sp500_name": "First Solar"
+  },
+  "Flex Ltd.": {
+    "ticker": "FLEX",
+    "similarity": 1.0,
+    "sp500_name": "Flex Ltd."
+  },
+  "Fortinet, Inc.": {
+    "ticker": "FTNT",
+    "similarity": 1.0,
+    "sp500_name": "Fortinet"
+  },
+  "Fortiva Inc.": {
+    "ticker": "FTV",
+    "similarity": 0.7218377506035178,
+    "sp500_name": "Fortive"
+  },
+  "Class Technology Co., Ltd.": {
+    "ticker": "FOX",
+    "similarity": 0.7194858610278912,
+    "sp500_name": "Fox Corporation (Class B)"
+  },
+  "Gartner, Inc.": {
+    "ticker": "IT",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Gartner"
+  },
+  "GE HEALTHCARE LIMITED": {
+    "ticker": "GEHC",
+    "similarity": 1.0,
+    "sp500_name": "GE HealthCare"
+  },
+  "Sernova Corporation": {
+    "ticker": "GEV",
+    "similarity": 0.6755525387537826,
+    "sp500_name": "GE Vernova"
+  },
+  "Digital Gene Technologies, Inc.": {
+    "ticker": "GEN",
+    "similarity": 0.8654242857872082,
+    "sp500_name": "Gen Digital"
+  },
+  "Generac Power Systems, Inc.": {
+    "ticker": "GNRC",
+    "similarity": 0.78332026868995,
+    "sp500_name": "Generac"
+  },
+  "General Motors LLC": {
+    "ticker": "GM",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "General Motors"
+  },
+  "Genuine Genius LLC": {
+    "ticker": "GPC",
+    "similarity": 0.6730220586570667,
+    "sp500_name": "Genuine Parts Company"
+  },
+  "Healthcare Technologies, LLC": {
+    "ticker": "HCA",
+    "similarity": 0.8332546745686775,
+    "sp500_name": "HCA Healthcare"
+  },
+  "HENRY SCHEIN, INC.": {
+    "ticker": "HSIC",
+    "similarity": 1.0,
+    "sp500_name": "Henry Schein"
+  },
+  "HEWLETT PACKARD ENTERPRISE COMPANY": {
+    "ticker": "HPE",
+    "similarity": 1.0,
+    "sp500_name": "Hewlett Packard Enterprise"
+  },
+  "S & B Worldwide Corporation": {
+    "ticker": "OTIS",
+    "similarity": 0.8004135650978177,
+    "sp500_name": "Otis Worldwide"
+  },
+  "Home Depot U.S.A., Inc.": {
+    "ticker": "HD",
+    "similarity": 0.9367701892020311,
+    "sp500_name": "Home Depot (The)"
+  },
+  "HOWMET CORPORATION": {
+    "ticker": "HWM",
+    "similarity": 0.727804706194246,
+    "sp500_name": "Howmet Aerospace"
+  },
+  "HP Inc.": {
+    "ticker": "HPQ",
+    "similarity": 1.0,
+    "sp500_name": "HP Inc."
+  },
+  "Huntington Ingalls Incorporated": {
+    "ticker": "HII",
+    "similarity": 0.7553420717229804,
+    "sp500_name": "Huntington Ingalls Industries"
+  },
+  "Ingersoll-Rand Company": {
+    "ticker": "IR",
+    "similarity": 1.0000000000000004,
+    "sp500_name": "Ingersoll Rand"
+  },
+  "INSULET CORPORATION": {
+    "ticker": "PODD",
+    "similarity": 1.0,
+    "sp500_name": "Insulet Corporation"
+  },
+  "IQVIA Inc.": {
+    "ticker": "IQV",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "IQVIA"
+  },
+  "Hunt Holdings, Inc.": {
+    "ticker": "JBHT",
+    "similarity": 0.8469266924501111,
+    "sp500_name": "J.B. Hunt"
+  },
+  "JABIL INC.": {
+    "ticker": "JBL",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Jabil"
+  },
+  "Jacobs Corporation": {
+    "ticker": "J",
+    "similarity": 0.8114332695792431,
+    "sp500_name": "Jacobs Solutions"
+  },
+  "KEYSIGHT TECHNOLOGIES, INC.": {
+    "ticker": "KEYS",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Keysight Technologies"
+  },
+  "Kinder Morgan, Inc.": {
+    "ticker": "KMI",
+    "similarity": 1.0,
+    "sp500_name": "Kinder Morgan"
+  },
+  "KLA-Technologies Corporation": {
+    "ticker": "KLAC",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "KLA Corporation"
+  },
+  "Tabcorp International Pty Ltd": {
+    "ticker": "LH",
+    "similarity": 0.6614420659139209,
+    "sp500_name": "Labcorp"
+  },
+  "LAS VEGAS SANDS CORP.": {
+    "ticker": "LVS",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Las Vegas Sands"
+  },
+  "Leidos, Inc.": {
+    "ticker": "LDOS",
+    "similarity": 1.0,
+    "sp500_name": "Leidos"
+  },
+  "Lennard Technologies, LLC.": {
+    "ticker": "LEN",
+    "similarity": 0.7929218563601425,
+    "sp500_name": "Lennar"
+  },
+  "Live Nation Entertainment, Inc.": {
+    "ticker": "LYV",
+    "similarity": 1.0,
+    "sp500_name": "Live Nation Entertainment"
+  },
+  "Winston Lowe": {
+    "ticker": "LOW",
+    "similarity": 0.6668360052819775,
+    "sp500_name": "Lowe's"
+  },
+  "LULULEMON ATHLETICA CANADA INC.": {
+    "ticker": "LULU",
+    "similarity": 0.9237920183945405,
+    "sp500_name": "Lululemon Athletica"
+  },
+  "Lumentum Operations LLC": {
+    "ticker": "LITE",
+    "similarity": 0.7565393914366632,
+    "sp500_name": "Lumentum"
+  },
+  "LyondellBasell Acetyls, LLC": {
+    "ticker": "LYB",
+    "similarity": 0.790546324571206,
+    "sp500_name": "LyondellBasell"
+  },
+  "Marathon Petroleum Company LP": {
+    "ticker": "MPC",
+    "similarity": 0.9436908715007919,
+    "sp500_name": "Marathon Petroleum"
+  },
+  "Marriott International, Inc.": {
+    "ticker": "MAR",
+    "similarity": 1.0,
+    "sp500_name": "Marriott International"
+  },
+  "Martin Marietta Materials, Inc.": {
+    "ticker": "MLM",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Martin Marietta Materials"
+  },
+  "McDonald's Corporation": {
+    "ticker": "MCD",
+    "similarity": 1.0,
+    "sp500_name": "McDonald's"
+  },
+  "MP Platforms, LLC": {
+    "ticker": "META",
+    "similarity": 0.8073567814513704,
+    "sp500_name": "Meta Platforms"
+  },
+  "MGM Resorts International": {
+    "ticker": "MGM",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "MGM Resorts"
+  },
+  "THE MODERN GROUP, LTD.": {
+    "ticker": "MRNA",
+    "similarity": 0.7680656748380494,
+    "sp500_name": "Moderna"
+  },
+  "Monolithic Power Systems, Inc.": {
+    "ticker": "MPWR",
+    "similarity": 1.0,
+    "sp500_name": "Monolithic Power Systems"
+  },
+  "The Mosaic Company": {
+    "ticker": "MOS",
+    "similarity": 1.0,
+    "sp500_name": "Mosaic Company (The)"
+  },
+  "Newmont Mining Corporation and Newmont Gold Company": {
+    "ticker": "NEM",
+    "similarity": 0.9115207510105742,
+    "sp500_name": "Newmont"
+  },
+  "International News, Inc.": {
+    "ticker": "NWS",
+    "similarity": 0.6993052604578738,
+    "sp500_name": "News Corp (Class B)"
+  },
+  "Norfolk Southern Corporation": {
+    "ticker": "NSC",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Norfolk Southern"
+  },
+  "NXP Semiconductors": {
+    "ticker": "NXPI",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "NXP Semiconductors"
+  },
+  "Occidental Petroleum": {
+    "ticker": "OXY",
+    "similarity": 1.0000000000000004,
+    "sp500_name": "Occidental Petroleum"
+  },
+  "Dominion Technologies Group, Inc.": {
+    "ticker": "ODFL",
+    "similarity": 0.8476279635328499,
+    "sp500_name": "Old Dominion"
+  },
+  "Omnicom Holdings Inc.": {
+    "ticker": "OMC",
+    "similarity": 1.0,
+    "sp500_name": "Omnicom Group"
+  },
+  "Palantir Technologies Inc.": {
+    "ticker": "PLTR",
+    "similarity": 1.0,
+    "sp500_name": "Palantir Technologies"
+  },
+  "Palo Alto Networks, Inc.": {
+    "ticker": "PANW",
+    "similarity": 1.0000000000000007,
+    "sp500_name": "Palo Alto Networks"
+  },
+  "Paramount Technologies, Inc.": {
+    "ticker": "PSKY",
+    "similarity": 0.6692357392178905,
+    "sp500_name": "Paramount Skydance Corporation"
+  },
+  "Paychex Time & Attendance, Inc.": {
+    "ticker": "PAYX",
+    "similarity": 0.6682787705671749,
+    "sp500_name": "Paychex"
+  },
+  "Pentair International S\u00c1RL": {
+    "ticker": "PNR",
+    "similarity": 0.8304314021123451,
+    "sp500_name": "Pentair"
+  },
+  "Phillips 66 Company": {
+    "ticker": "PSX",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Phillips 66"
+  },
+  "Quanta Technologies, LLC": {
+    "ticker": "PWR",
+    "similarity": 0.7434945151296035,
+    "sp500_name": "Quanta Services"
+  },
+  "Systems & Electronics, Inc.": {
+    "ticker": "Q",
+    "similarity": 0.6369198560257975,
+    "sp500_name": "Qnity Electronics"
+  },
+  "Lauren International, Inc.": {
+    "ticker": "RL",
+    "similarity": 0.7059927224635845,
+    "sp500_name": "Ralph Lauren Corporation"
+  },
+  "RTX A/S": {
+    "ticker": "RTX",
+    "similarity": 0.9580482026552201,
+    "sp500_name": "RTX Corporation"
+  },
+  "Republic Technologies (NA) LLC": {
+    "ticker": "RSG",
+    "similarity": 0.7460326929327458,
+    "sp500_name": "Republic Services"
+  },
+  "Rollins S.A.": {
+    "ticker": "ROL",
+    "similarity": 0.958914080212484,
+    "sp500_name": "Rollins, Inc."
+  },
+  "Roper Holdings, Inc.": {
+    "ticker": "ROP",
+    "similarity": 1.0000000000000004,
+    "sp500_name": "Roper Technologies"
+  },
+  "Ross Stores, Inc.": {
+    "ticker": "ROST",
+    "similarity": 1.0,
+    "sp500_name": "Ross Stores"
+  },
+  "Caribbean Cage, LLC": {
+    "ticker": "RCL",
+    "similarity": 0.7094971208142706,
+    "sp500_name": "Royal Caribbean Group"
+  },
+  "Salesforce, Inc.": {
+    "ticker": "CRM",
+    "similarity": 1.0,
+    "sp500_name": "Salesforce"
+  },
+  "Sandisk Technologies, Inc.": {
+    "ticker": "SNDK",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Sandisk"
+  },
+  "Schlumberger Technology Corporation": {
+    "ticker": "SLB",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Schlumberger"
+  },
+  "ServiceNow, Inc.": {
+    "ticker": "NOW",
+    "similarity": 1.0,
+    "sp500_name": "ServiceNow"
+  },
+  "Smurfit Stone Corporation": {
+    "ticker": "SW",
+    "similarity": 0.6932678474417889,
+    "sp500_name": "Smurfit Westrock"
+  },
+  "Solvent Solutions, Inc.": {
+    "ticker": "SOLV",
+    "similarity": 0.6275930798258473,
+    "sp500_name": "Solventum"
+  },
+  "Southwest Airlines Co.": {
+    "ticker": "LUV",
+    "similarity": 1.0,
+    "sp500_name": "Southwest Airlines"
+  },
+  "MOBILE TECHNOLOGY CORPORATION": {
+    "ticker": "TMUS",
+    "similarity": 0.8426876237454705,
+    "sp500_name": "T-Mobile US"
+  },
+  "TAKE-TWO INTERACTIVE SOFTWARE, INC.": {
+    "ticker": "TTWO",
+    "similarity": 0.8514213841114622,
+    "sp500_name": "Take-Two Interactive"
+  },
+  "Tapestry Pharmaceuticals, Inc.": {
+    "ticker": "TPR",
+    "similarity": 0.6958184393104314,
+    "sp500_name": "Tapestry, Inc."
+  },
+  "Targa Resources, Inc.": {
+    "ticker": "TRGP",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Targa Resources"
+  },
+  "TE Connectivity Co. Ltd.": {
+    "ticker": "TEL",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "TE Connectivity"
+  },
+  "Tesla, Inc.": {
+    "ticker": "TSLA",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Tesla, Inc."
+  },
+  "Pacific Technology Co., Ltd.": {
+    "ticker": "UNP",
+    "similarity": 0.8057710405205898,
+    "sp500_name": "Union Pacific Corporation"
+  },
+  "TKO Technologies Corp.": {
+    "ticker": "TKO",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "TKO Group Holdings"
+  },
+  "International Trade Corporation Limited": {
+    "ticker": "TTD",
+    "similarity": 0.6887295640586397,
+    "sp500_name": "Trade Desk (The)"
+  },
+  "Tractor Supply Company": {
+    "ticker": "TSCO",
+    "similarity": 1.0,
+    "sp500_name": "Tractor Supply"
+  },
+  "TransDigm, Inc.": {
+    "ticker": "TDG",
+    "similarity": 1.0,
+    "sp500_name": "TransDigm Group"
+  },
+  "TYLER TWO, LLC": {
+    "ticker": "TYL",
+    "similarity": 0.7924180613338816,
+    "sp500_name": "Tyler Technologies"
+  },
+  "Uber Technologies, Inc.": {
+    "ticker": "UBER",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Uber"
+  },
+  "BEAUTY AN TECHNOLOGY CO., LTD.": {
+    "ticker": "ULTA",
+    "similarity": 0.7329353311081469,
+    "sp500_name": "Ulta Beauty"
+  },
+  "UNITED AIRLINES, INC.": {
+    "ticker": "UAL",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "United Airlines Holdings"
+  },
+  "United Rentals (North America), Inc.": {
+    "ticker": "URI",
+    "similarity": 0.7310249818064317,
+    "sp500_name": "United Rentals"
+  },
+  "UnitedHealth Group Incorporated": {
+    "ticker": "UNH",
+    "similarity": 0.7989146368193004,
+    "sp500_name": "UnitedHealth Group"
+  },
+  "Universal Services, Inc.": {
+    "ticker": "UHS",
+    "similarity": 0.8460160361440319,
+    "sp500_name": "Universal Health Services"
+  },
+  "Valero Energy Corporation": {
+    "ticker": "VLO",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Valero Energy"
+  },
+  "Veeva Systems Inc.": {
+    "ticker": "VEEV",
+    "similarity": 1.0,
+    "sp500_name": "Veeva Systems"
+  },
+  "Verisk Crime Analytics, Inc.": {
+    "ticker": "VRSK",
+    "similarity": 0.8486492338819325,
+    "sp500_name": "Verisk Analytics"
+  },
+  "Verizon Services Corp. & Verizon Communications Inc.": {
+    "ticker": "VZ",
+    "similarity": 0.8339153277263261,
+    "sp500_name": "Verizon"
+  },
+  "VERTIV CORPORATION": {
+    "ticker": "VRT",
+    "similarity": 1.0,
+    "sp500_name": "Vertiv"
+  },
+  "Viatris GmbH & Co. KG": {
+    "ticker": "VTRS",
+    "similarity": 0.8371559722193855,
+    "sp500_name": "Viatris"
+  },
+  "Vulcan Materials Company": {
+    "ticker": "VMC",
+    "similarity": 1.0000000000000004,
+    "sp500_name": "Vulcan Materials Company"
+  },
+  "The Walt Disney Company": {
+    "ticker": "DIS",
+    "similarity": 1.0000000000000004,
+    "sp500_name": "Walt Disney Company (The)"
+  },
+  "Discovery Limited": {
+    "ticker": "WBD",
+    "similarity": 0.6864295069395594,
+    "sp500_name": "Warner Bros. Discovery"
+  },
+  "Waste Management, Inc.": {
+    "ticker": "WM",
+    "similarity": 1.0,
+    "sp500_name": "Waste Management"
+  },
+  "Williams- Sonoma, Inc.": {
+    "ticker": "WSM",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Williams-Sonoma, Inc."
+  },
+  "The Williams Companies, Inc.": {
+    "ticker": "WMB",
+    "similarity": 1.0,
+    "sp500_name": "Williams Companies"
+  },
+  "Workday, Inc.": {
+    "ticker": "WDAY",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Workday, Inc."
+  },
+  "Wynn Resorts Holdings, LLC": {
+    "ticker": "WYNN",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Wynn Resorts"
+  },
+  "XYLEM HOLDINGS LLC": {
+    "ticker": "XYL",
+    "similarity": 1.0000000000000002,
+    "sp500_name": "Xylem Inc."
+  },
+  "N.C. Brands Inc.": {
+    "ticker": "YUM",
+    "similarity": 0.6356544885844858,
+    "sp500_name": "Yum! Brands"
+  },
+  "Zoetis LLC": {
+    "ticker": "ZTS",
+    "similarity": 1.0,
+    "sp500_name": "Zoetis"
   }
 }
