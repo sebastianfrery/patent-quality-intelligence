@@ -168,11 +168,11 @@ Position vs sector peers.
 # ── Main ──────────────────────────────────────────────────────────────────────
 if not query:
     st.markdown("## Patent Quality Intelligence")
-    st.markdown("Search 26,000+ companies from USPTO patent data.")
+    st.markdown("Search **77,000+ companies** from USPTO patent data (2000–2025).")
     col1, col2, col3 = st.columns(3)
     with col1:
         st.markdown("**Technology**")
-        st.code("Apple Inc.\nMicrosoft\nPalantir\nCrowdStrike\nNVIDIA")
+        st.code("Apple Inc.\nMicrosoft\nPalantir\nCrowdStrike\nSnowflake")
     with col2:
         st.markdown("**Life Sciences**")
         st.code("Pfizer\nModerna\nJohnson & Johnson\nNovartis\nRoche")
@@ -198,7 +198,48 @@ else:
     results = search_company(query, idx_df)
 
     if not results:
-        st.warning(f"No companies found for **{query}**. Try a different spelling.")
+        st.markdown(f"### No results for **{query}**")
+        st.markdown("""
+This company may not be in our USPTO patent database. Common reasons:
+
+- **Fewer than 5 US patents** — company is early-stage or doesn't rely on US patents
+- **Files under a different name** — try the legal entity name (e.g. "Alphabet" instead of "Google")
+- **Patents outside the US** — some companies file primarily in Europe (EPO) or Asia (JPO)
+- **No patent strategy** — some companies (e.g. SpaceX) deliberately avoid patents
+
+        """)
+
+        st.markdown("---")
+        st.markdown("#### Request a custom analysis")
+        st.markdown(
+            "We can manually analyze any company's patent portfolio — "
+            "including private companies, recent IPOs, and international filers."
+        )
+
+        company_req = st.text_input("Company name:", value=query)
+        email_req   = st.text_input("Your email:")
+        notes_req   = st.text_area("What do you need to know?",
+                                    placeholder="e.g. Evaluating for investment, M&A due diligence, competitive analysis...")
+
+        if st.button("Request analysis  →"):
+            if email_req and company_req:
+                mailto = (
+                    f"mailto:sebastianfrery28@gmail.com"
+                    f"?subject=Custom Patent Analysis: {company_req}"
+                    f"&body=Company: {company_req}%0D%0A"
+                    f"Email: {email_req}%0D%0A"
+                    f"Notes: {notes_req}"
+                )
+                st.markdown(
+                    f'<meta http-equiv="refresh" content="0; url={mailto}">',
+                    unsafe_allow_html=True
+                )
+                st.success(
+                    f"Opening your email client... "
+                    f"We'll get back to you within 24 hours with a quote for **{company_req}**."
+                )
+            else:
+                st.warning("Please fill in company name and your email.")
         st.stop()
 
     if len(results) == 1:
