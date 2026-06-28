@@ -159,11 +159,13 @@ if compare_ticker:
         st.caption(f"No data for {compare_ticker} in this range.")
 
 # Sector average line
-sec_chart = sector_df[sector_df["grant_year"].between(
-    year_range[0], year_range[1])].groupby("grant_year")[q_col].mean().reset_index()
-sec_chart.columns = ["Year", "Sector avg"]
-chart_data = chart_data.merge(sec_chart, on="Year", how="outer").sort_values("Year")
-chart_data = chart_data.set_index("Year")
+if sector_col and "sector_val" in dir():
+    sector_df = df[df[sector_col] == sector_val]
+    sec_chart = sector_df[sector_df["grant_year"].between(
+        year_range[0], year_range[1])].groupby("grant_year")[q_col].mean().reset_index()
+    sec_chart.columns = ["Year", "Sector avg"]
+    chart_data = chart_data.merge(sec_chart, on="Year", how="outer")
+chart_data = chart_data.sort_values("Year").set_index("Year")
 
 st.line_chart(chart_data)
 
