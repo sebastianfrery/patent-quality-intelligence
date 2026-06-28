@@ -1,0 +1,14 @@
+patent_company_quality.parquet
+company_year_panel.parquet
+company_scores_full.parquet
+panel_v2.parquet
+alpha_panel.parquet
+sec_companies.json
+__pycache__/
+*.pyc
+.env
+build_company_quality.py
+expand_universe.py
+measure_alpha.py
+signal_v2.py
+update_scores.py

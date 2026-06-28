@@ -1,0 +1,2952 @@
+{
+  "International Business Machines Corporation": {
+    "ticker": "IBM",
+    "sec_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "similarity": 0.9999999999999999
+  },
+  "CANON KABUSHIKI KAISHA": {
+    "ticker": "CAJPY",
+    "sec_name": "CANON INC",
+    "similarity": 1.0
+  },
+  "SONY GROUP CORPORATION": {
+    "ticker": "SONY",
+    "sec_name": "Sony Group Corp",
+    "similarity": 1.0000000000000002
+  },
+  "Intel Corporation": {
+    "ticker": "INTC",
+    "sec_name": "INTEL CORP",
+    "similarity": 1.0
+  },
+  "Microsoft Corporation": {
+    "ticker": "MSFT",
+    "sec_name": "MICROSOFT CORP",
+    "similarity": 1.0000000000000002
+  },
+  "General Electric Company": {
+    "ticker": "GE",
+    "sec_name": "GENERAL ELECTRIC CO",
+    "similarity": 1.0
+  },
+  "HITACHI, LTD.": {
+    "ticker": "HTHIY",
+    "sec_name": "HITACHI LTD",
+    "similarity": 1.0000000000000002
+  },
+  "Micron Technology, Inc.": {
+    "ticker": "MU",
+    "sec_name": "MICRON TECHNOLOGY INC",
+    "similarity": 1.0
+  },
+  "QUALCOMM Incorporated": {
+    "ticker": "QCOM",
+    "sec_name": "QUALCOMM INC/DE",
+    "similarity": 0.6963954427208725
+  },
+  "SUMITOMO ELECTRIC INDUSTRIES, LTD.": {
+    "ticker": "SMTOY",
+    "sec_name": "SUMITOMO ELECTRIC INDUSTRIES LTD/ADR/",
+    "similarity": 0.9561188535411447
+  },
+  "Taiwan Semiconductor Manufacturing Company, Ltd.": {
+    "ticker": "TSM",
+    "sec_name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+    "similarity": 1.0000000000000002
+  },
+  "HONDA MOTOR CO., LTD.": {
+    "ticker": "HMC",
+    "sec_name": "HONDA MOTOR CO LTD",
+    "similarity": 1.0
+  },
+  "Apple Inc.": {
+    "ticker": "AAPL",
+    "sec_name": "Apple Inc.",
+    "similarity": 1.0
+  },
+  "Texas Instruments Incorporated": {
+    "ticker": "TXN",
+    "sec_name": "TEXAS INSTRUMENTS INC",
+    "similarity": 0.803199169857031
+  },
+  "CISCO TECHNOLOGY, INC.": {
+    "ticker": "CSCO",
+    "sec_name": "CISCO SYSTEMS, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "FORD GLOBAL TECHNOLOGIES, LLC": {
+    "ticker": "GTLL",
+    "sec_name": "GLOBAL TECHNOLOGIES LTD",
+    "similarity": 0.7416394666102358
+  },
+  "Xerox Corporation": {
+    "ticker": "XRX",
+    "sec_name": "Xerox Holdings Corp",
+    "similarity": 1.0000000000000002
+  },
+  "The Boeing Company": {
+    "ticker": "BA",
+    "sec_name": "BOEING CO",
+    "similarity": 1.0000000000000002
+  },
+  "Infineon Technologies AG": {
+    "ticker": "IFNNY",
+    "sec_name": "INFINEON TECHNOLOGIES AG",
+    "similarity": 1.0000000000000002
+  },
+  "HONEYWELL INTERNATIONAL INC.": {
+    "ticker": "HON",
+    "sec_name": "HONEYWELL INTERNATIONAL INC",
+    "similarity": 1.0
+  },
+  "KONINKLIJKE PHILIPS ELECTRONICS NV": {
+    "ticker": "PHG",
+    "sec_name": "KONINKLIJKE PHILIPS NV",
+    "similarity": 0.9042938372692828
+  },
+  "Amazon Technologies, Inc.": {
+    "ticker": "AMZN",
+    "sec_name": "AMAZON COM INC",
+    "similarity": 0.9050164186733385
+  },
+  "Advanced Micro Devices, Inc.": {
+    "ticker": "AMD",
+    "sec_name": "ADVANCED MICRO DEVICES INC",
+    "similarity": 1.0000000000000002
+  },
+  "Applied Materials, Inc.": {
+    "ticker": "AMAT",
+    "sec_name": "APPLIED MATERIALS INC /DE",
+    "similarity": 0.9591408311656596
+  },
+  "Nokia": {
+    "ticker": "NOK",
+    "sec_name": "NOKIA CORP",
+    "similarity": 1.0
+  },
+  "The Procter & Gamble Company": {
+    "ticker": "PG",
+    "sec_name": "PROCTER & GAMBLE Co",
+    "similarity": 1.0000000000000002
+  },
+  "Motorola, Inc.": {
+    "ticker": "MSI",
+    "sec_name": "Motorola Solutions, Inc.",
+    "similarity": 0.7879857852291146
+  },
+  "E.I. DU PONT DE NEMOURS AND COMPANY": {
+    "ticker": "DD",
+    "sec_name": "DuPont de Nemours, Inc.",
+    "similarity": 0.7712770777187868
+  },
+  "Seagate Technology LLC": {
+    "ticker": "STX",
+    "sec_name": "Seagate Technology Holdings plc",
+    "similarity": 1.0
+  },
+  "Oracle International Corporation": {
+    "ticker": "ORCL",
+    "sec_name": "ORACLE CORP",
+    "similarity": 1.0000000000000002
+  },
+  "Halliburton Energy Services, Inc.": {
+    "ticker": "HAL",
+    "sec_name": "HALLIBURTON CO",
+    "similarity": 0.7753030066624363
+  },
+  "STMICROELECTRONICS S.r.l.": {
+    "ticker": "STM",
+    "sec_name": "STMicroelectronics N.V.",
+    "similarity": 0.911118691448005
+  },
+  "Medtronic, Inc.": {
+    "ticker": "MDT",
+    "sec_name": "Medtronic plc",
+    "similarity": 1.0
+  },
+  "Caterpillar Inc.": {
+    "ticker": "CAT",
+    "sec_name": "CATERPILLAR INC",
+    "similarity": 1.0
+  },
+  "KONINKLIJKE PHILIPS N.V.": {
+    "ticker": "PHG",
+    "sec_name": "KONINKLIJKE PHILIPS NV",
+    "similarity": 0.9466319763139318
+  },
+  "Marvell International Ltd.": {
+    "ticker": "MRVL",
+    "sec_name": "Marvell Technology, Inc.",
+    "similarity": 1.0
+  },
+  "Baker Hughes Holdings LLC": {
+    "ticker": "BKR",
+    "sec_name": "Baker Hughes Co",
+    "similarity": 1.0
+  },
+  "UNITED TECHNOLOGIES CORPORATION": {
+    "ticker": "UFCS",
+    "sec_name": "UNITED FIRE GROUP INC",
+    "similarity": 0.7321587627207454
+  },
+  "BlackBerry Limited": {
+    "ticker": "BB",
+    "sec_name": "BLACKBERRY Ltd",
+    "similarity": 1.0000000000000002
+  },
+  "LOCKHEED MARTIN CORPORATION": {
+    "ticker": "LMT",
+    "sec_name": "LOCKHEED MARTIN CORP",
+    "similarity": 1.0
+  },
+  "Agilent Technologies, Inc.": {
+    "ticker": "A",
+    "sec_name": "AGILENT TECHNOLOGIES, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "Boston Scientific Scimed, Inc.": {
+    "ticker": "BSX",
+    "sec_name": "BOSTON SCIENTIFIC CORP",
+    "similarity": 0.8490168080493788
+  },
+  "Kimberly-Clark Worldwide, Inc.": {
+    "ticker": "KMB",
+    "sec_name": "KIMBERLY CLARK CORP",
+    "similarity": 0.7923396662222822
+  },
+  "ILLINOIS TOOL WORKS INC.": {
+    "ticker": "ITW",
+    "sec_name": "ILLINOIS TOOL WORKS INC",
+    "similarity": 1.0
+  },
+  "SAP AG": {
+    "ticker": "SAP",
+    "sec_name": "SAP SE",
+    "similarity": 1.0
+  },
+  "Adobe Systems Incorporated": {
+    "ticker": "ADBE",
+    "sec_name": "ADOBE INC.",
+    "similarity": 0.6916980365587377
+  },
+  "Nvidia Corporation": {
+    "ticker": "NVDA",
+    "sec_name": "NVIDIA CORP",
+    "similarity": 1.0000000000000002
+  },
+  "DEERE & COMPANY": {
+    "ticker": "DE",
+    "sec_name": "DEERE & CO",
+    "similarity": 1.0000000000000002
+  },
+  "NIKE, Inc.": {
+    "ticker": "NKE",
+    "sec_name": "NIKE, Inc.",
+    "similarity": 1.0000000000000002
+  },
+  "NOVARTIS AG": {
+    "ticker": "NVS",
+    "sec_name": "NOVARTIS AG",
+    "similarity": 1.0000000000000002
+  },
+  "Eaton Corporation": {
+    "ticker": "ETN",
+    "sec_name": "Eaton Corp plc",
+    "similarity": 1.0000000000000002
+  },
+  "NATIONAL SEMICONDUCTOR CORPORATION": {
+    "ticker": "ON",
+    "sec_name": "ON SEMICONDUCTOR CORP",
+    "similarity": 0.7635005604756303
+  },
+  "NITTO DENKO CORPORATION": {
+    "ticker": "NDEKF",
+    "sec_name": "NITTO DENKO CORP / ADR/",
+    "similarity": 0.9331177510528678
+  },
+  "SHELL OIL COMPANY": {
+    "ticker": "SHEL",
+    "sec_name": "Shell plc",
+    "similarity": 0.8018767733516368
+  },
+  "Lam Research Corporation": {
+    "ticker": "LRCX",
+    "sec_name": "LAM RESEARCH CORP",
+    "similarity": 1.0000000000000002
+  },
+  "California Institute of Technology": {
+    "ticker": "BANC",
+    "sec_name": "BANC OF CALIFORNIA, INC.",
+    "similarity": 0.706033553102309
+  },
+  "AT&T CORP.": {
+    "ticker": "T",
+    "sec_name": "AT&T INC.",
+    "similarity": 1.0000000000000002
+  },
+  "Analog Devices, Inc.": {
+    "ticker": "ADI",
+    "sec_name": "ANALOG DEVICES INC",
+    "similarity": 1.0
+  },
+  "Hitachi High-Technologies Corporation": {
+    "ticker": "HTHIY",
+    "sec_name": "HITACHI LTD",
+    "similarity": 0.8254580663117294
+  },
+  "WESTERN DIGITAL TECHNOLOGIES, INC.": {
+    "ticker": "WDC",
+    "sec_name": "WESTERN DIGITAL CORP",
+    "similarity": 1.0000000000000007
+  },
+  "BRISTOL-MYERS SQUIBB COMPANY": {
+    "ticker": "BMY",
+    "sec_name": "BRISTOL MYERS SQUIBB CO",
+    "similarity": 1.0000000000000002
+  },
+  "STMICROELECTRONICS, INC.": {
+    "ticker": "STM",
+    "sec_name": "STMicroelectronics N.V.",
+    "similarity": 0.9567339718839054
+  },
+  "Merck Patent GmbH": {
+    "ticker": "MRK",
+    "sec_name": "Merck & Co., Inc.",
+    "similarity": 0.7202822453746132
+  },
+  "Nokia Technologies Oy": {
+    "ticker": "NOK",
+    "sec_name": "NOKIA CORP",
+    "similarity": 0.8679084084588624
+  },
+  "Whirlpool Corporation": {
+    "ticker": "WHR",
+    "sec_name": "WHIRLPOOL CORP /DE/",
+    "similarity": 0.9624875323556286
+  },
+  "Pfizer Inc.": {
+    "ticker": "PFE",
+    "sec_name": "PFIZER INC",
+    "similarity": 1.0
+  },
+  "SAP SE": {
+    "ticker": "SAP",
+    "sec_name": "SAP SE",
+    "similarity": 1.0
+  },
+  "Rockwell Automation Technologies, Inc.": {
+    "ticker": "ROK",
+    "sec_name": "ROCKWELL AUTOMATION, INC",
+    "similarity": 1.0
+  },
+  "InterDigital Technology Corporation": {
+    "ticker": "IDCC",
+    "sec_name": "InterDigital, Inc.",
+    "similarity": 1.0
+  },
+  "Bank of America Corporation": {
+    "ticker": "BAC",
+    "sec_name": "BANK OF AMERICA CORP /DE/",
+    "similarity": 0.9385606550283696
+  },
+  "THE GOODYEAR TIRE & RUBBER COMPANY": {
+    "ticker": "GT",
+    "sec_name": "GOODYEAR TIRE & RUBBER CO /OH/",
+    "similarity": 0.9502181898739341
+  },
+  "BLACK & DECKER INC.": {
+    "ticker": "SWK",
+    "sec_name": "STANLEY BLACK & DECKER, INC.",
+    "similarity": 0.7828958474151696
+  },
+  "Rambus Inc.": {
+    "ticker": "RMBS",
+    "sec_name": "RAMBUS INC",
+    "similarity": 1.0000000000000002
+  },
+  "Cadence Design Systems, Inc.": {
+    "ticker": "CDNS",
+    "sec_name": "CADENCE DESIGN SYSTEMS INC",
+    "similarity": 1.0
+  },
+  "NetApp, Inc.": {
+    "ticker": "NTAP",
+    "sec_name": "NetApp, Inc.",
+    "similarity": 1.0
+  },
+  "BECTON, DICKINSON AND COMPANY": {
+    "ticker": "BDX",
+    "sec_name": "BECTON DICKINSON & CO",
+    "similarity": 1.0000000000000002
+  },
+  "Advantest Corporation": {
+    "ticker": "ATEYY",
+    "sec_name": "ADVANTEST CORP",
+    "similarity": 1.0000000000000002
+  },
+  "Chevron U.S.A. Inc.": {
+    "ticker": "CVX",
+    "sec_name": "CHEVRON CORP",
+    "similarity": 0.9144868585806354
+  },
+  "EBAY INC.": {
+    "ticker": "EBAY",
+    "sec_name": "EBAY INC",
+    "similarity": 1.0
+  },
+  "Abbott Laboratories": {
+    "ticker": "ABT",
+    "sec_name": "ABBOTT LABORATORIES",
+    "similarity": 1.0
+  },
+  "Synopsys, Inc.": {
+    "ticker": "SNPS",
+    "sec_name": "SYNOPSYS INC",
+    "similarity": 1.0000000000000007
+  },
+  "ADC Telecommunications, Inc.": {
+    "ticker": "CMTL",
+    "sec_name": "COMTECH TELECOMMUNICATIONS CORP /DE/",
+    "similarity": 0.6825438962868889
+  },
+  "NORTHROP GRUMMAN CORPORATION": {
+    "ticker": "NOC",
+    "sec_name": "NORTHROP GRUMMAN CORP /DE/",
+    "similarity": 0.9687669315978864
+  },
+  "Air Products and Chemicals, Inc.": {
+    "ticker": "APD",
+    "sec_name": "Air Products & Chemicals, Inc.",
+    "similarity": 1.0000000000000002
+  },
+  "PPG Industries Ohio, Inc.": {
+    "ticker": "PPG",
+    "sec_name": "PPG INDUSTRIES INC",
+    "similarity": 0.8168486262087774
+  },
+  "ACCENTURE GLOBAL SERVICES LIMITED": {
+    "ticker": "ACN",
+    "sec_name": "Accenture plc",
+    "similarity": 0.6847266351759884
+  },
+  "Colgate-Palmolive Company": {
+    "ticker": "CL",
+    "sec_name": "COLGATE PALMOLIVE CO",
+    "similarity": 0.9999999999999997
+  },
+  "Eli Lilly and Company": {
+    "ticker": "LLY",
+    "sec_name": "ELI LILLY & Co",
+    "similarity": 1.0000000000000002
+  },
+  "ASTRAZENECA AB": {
+    "ticker": "AZN",
+    "sec_name": "ASTRAZENECA PLC",
+    "similarity": 0.9468693158736604
+  },
+  "BorgWarner Inc.": {
+    "ticker": "BWA",
+    "sec_name": "BORGWARNER INC",
+    "similarity": 1.0000000000000002
+  },
+  "NIPPON TELEGRAPH AND TELEPHONE CORPORATION": {
+    "ticker": "NTTYY",
+    "sec_name": "NIPPON TELEGRAPH & TELEPHONE CORP",
+    "similarity": 1.0000000000000002
+  },
+  "MERCK & CO., INC.": {
+    "ticker": "MRK",
+    "sec_name": "Merck & Co., Inc.",
+    "similarity": 1.0000000000000002
+  },
+  "Eastman Chemical Company": {
+    "ticker": "EMN",
+    "sec_name": "EASTMAN CHEMICAL CO",
+    "similarity": 1.0
+  },
+  "Baxter International Inc.": {
+    "ticker": "BAX",
+    "sec_name": "BAXTER INTERNATIONAL INC",
+    "similarity": 1.0
+  },
+  "Pitney Bowes Inc.": {
+    "ticker": "PBI",
+    "sec_name": "PITNEY BOWES INC /DE/",
+    "similarity": 0.961736808235773
+  },
+  "Silicon Laboratories Inc.": {
+    "ticker": "SLAB",
+    "sec_name": "SILICON LABORATORIES INC.",
+    "similarity": 0.9999999999999998
+  },
+  "Unisys Corporation": {
+    "ticker": "UIS",
+    "sec_name": "UNISYS CORP",
+    "similarity": 1.0
+  },
+  "MOTOROLA SOLUTIONS, INC.": {
+    "ticker": "MSI",
+    "sec_name": "Motorola Solutions, Inc.",
+    "similarity": 1.0000000000000002
+  },
+  "Cirrus Logic Inc.": {
+    "ticker": "CRUS",
+    "sec_name": "CIRRUS LOGIC, INC.",
+    "similarity": 0.9999999999999994
+  },
+  "Ciena Corporation": {
+    "ticker": "CIEN",
+    "sec_name": "CIENA CORP",
+    "similarity": 1.0
+  },
+  "Digimarc Corporation": {
+    "ticker": "DMRC",
+    "sec_name": "Digimarc Corp",
+    "similarity": 1.0
+  },
+  "Johnson Controls Technology Company": {
+    "ticker": "JCI",
+    "sec_name": "Johnson Controls International plc",
+    "similarity": 1.0000000000000002
+  },
+  "Skyworks Solutions, Inc.": {
+    "ticker": "SWKS",
+    "sec_name": "SKYWORKS SOLUTIONS, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "Amgen Inc.": {
+    "ticker": "AMGN",
+    "sec_name": "AMGEN INC",
+    "similarity": 1.0000000000000004
+  },
+  "Callaway Golf Company": {
+    "ticker": "CALY",
+    "sec_name": "Callaway Golf Co",
+    "similarity": 1.0000000000000002
+  },
+  "INTUIT INC.": {
+    "ticker": "INTU",
+    "sec_name": "INTUIT INC.",
+    "similarity": 1.0000000000000002
+  },
+  "Hubbell Incorporated": {
+    "ticker": "HUBB",
+    "sec_name": "HUBBELL INC",
+    "similarity": 0.7335435044285741
+  },
+  "ABB TECHNOLOGY AG": {
+    "ticker": "ABLZF",
+    "sec_name": "ABB LTD",
+    "similarity": 1.0000000000000002
+  },
+  "Brunswick Corporation": {
+    "ticker": "BC",
+    "sec_name": "BRUNSWICK CORP",
+    "similarity": 0.9999999999999994
+  },
+  "ECOLAB USA INC.": {
+    "ticker": "ECL",
+    "sec_name": "ECOLAB INC.",
+    "similarity": 0.8476501458027131
+  },
+  "Vertex Pharmaceuticals Incorporated": {
+    "ticker": "VRTX",
+    "sec_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "similarity": 0.7673269010994229
+  },
+  "SMITH INTERNATIONAL, INC.": {
+    "ticker": "AOS",
+    "sec_name": "SMITH A O CORP",
+    "similarity": 0.8942196684201251
+  },
+  "Amkor Technology, Inc.": {
+    "ticker": "AMKR",
+    "sec_name": "AMKOR TECHNOLOGY, INC.",
+    "similarity": 1.0
+  },
+  "Novo Nordisk A/S": {
+    "ticker": "NVO",
+    "sec_name": "NOVO NORDISK A S",
+    "similarity": 1.0000000000000002
+  },
+  "MATTEL, INC.": {
+    "ticker": "MAT",
+    "sec_name": "MATTEL INC /DE/",
+    "similarity": 0.9130888323941324
+  },
+  "SMITH & NEPHEW, INC.": {
+    "ticker": "SNN",
+    "sec_name": "SMITH & NEPHEW PLC",
+    "similarity": 1.0
+  },
+  "Avery Dennison Corporation": {
+    "ticker": "AVY",
+    "sec_name": "Avery Dennison Corp",
+    "similarity": 1.0000000000000002
+  },
+  "Novatek Microelectronics Corp.": {
+    "ticker": "UMC",
+    "sec_name": "UNITED MICROELECTRONICS CORP",
+    "similarity": 0.6914013354486834
+  },
+  "Emerson Electric Co.": {
+    "ticker": "EMR",
+    "sec_name": "EMERSON ELECTRIC CO",
+    "similarity": 0.9999999999999999
+  },
+  "Parker-Hannifin Corporation": {
+    "ticker": "PH",
+    "sec_name": "Parker-Hannifin Corp",
+    "similarity": 1.0
+  },
+  "Immersion, LLC": {
+    "ticker": "IMMR",
+    "sec_name": "IMMERSION CORP",
+    "similarity": 1.0000000000000002
+  },
+  "S. C. JOHNSON & SON, INC.": {
+    "ticker": "JNJ",
+    "sec_name": "JOHNSON & JOHNSON",
+    "similarity": 0.882042251071577
+  },
+  "AKZO NOBEL N.V.": {
+    "ticker": "AKZOY",
+    "sec_name": "AKZO NOBEL NV",
+    "similarity": 0.9071768266489092
+  },
+  "INTUITIVE SURGICAL OPERATIONS, INC.": {
+    "ticker": "ISRG",
+    "sec_name": "INTUITIVE SURGICAL INC",
+    "similarity": 0.848132969809518
+  },
+  "POWER INTEGRATIONS, INC.": {
+    "ticker": "POWI",
+    "sec_name": "POWER INTEGRATIONS INC",
+    "similarity": 1.0
+  },
+  "InterDigital Patent Holdings, Inc.": {
+    "ticker": "IDCC",
+    "sec_name": "InterDigital, Inc.",
+    "similarity": 0.8357198681076201
+  },
+  "KENNAMETAL INC.": {
+    "ticker": "KMT",
+    "sec_name": "KENNAMETAL INC",
+    "similarity": 1.0000000000000002
+  },
+  "Nordson Corporation": {
+    "ticker": "NDSN",
+    "sec_name": "NORDSON CORP",
+    "similarity": 1.0
+  },
+  "NORTHROP GRUMMAN SYSTEMS CORPORATION": {
+    "ticker": "NOC",
+    "sec_name": "NORTHROP GRUMMAN CORP /DE/",
+    "similarity": 0.9687669315978864
+  },
+  "JPMORGAN CHASE BANK, N.A.": {
+    "ticker": "JPM",
+    "sec_name": "JPMORGAN CHASE & CO",
+    "similarity": 0.9010121749455752
+  },
+  "Autoliv ASP, Inc.": {
+    "ticker": "ALV",
+    "sec_name": "AUTOLIV INC",
+    "similarity": 0.831586819312111
+  },
+  "AUTODESK, INC.": {
+    "ticker": "ADSK",
+    "sec_name": "Autodesk, Inc.",
+    "similarity": 1.0
+  },
+  "STRYKER CORPORATION": {
+    "ticker": "SYK",
+    "sec_name": "STRYKER CORP",
+    "similarity": 1.0000000000000004
+  },
+  "Resmed Inc.": {
+    "ticker": "RMD",
+    "sec_name": "RESMED INC",
+    "similarity": 1.0
+  },
+  "Edwards Lifesciences Corporation": {
+    "ticker": "EW",
+    "sec_name": "Edwards Lifesciences Corp",
+    "similarity": 1.0000000000000002
+  },
+  "Synaptics Incorporated": {
+    "ticker": "SYNA",
+    "sec_name": "SYNAPTICS Inc",
+    "similarity": 0.7352621304777577
+  },
+  "GENTEX CORPORATION": {
+    "ticker": "GNTX",
+    "sec_name": "GENTEX CORP",
+    "similarity": 1.0
+  },
+  "Microchip Technology Incorporated": {
+    "ticker": "MCHP",
+    "sec_name": "MICROCHIP TECHNOLOGY INC",
+    "similarity": 0.7222854374477242
+  },
+  "Cummins Inc.": {
+    "ticker": "CMI",
+    "sec_name": "CUMMINS INC",
+    "similarity": 1.0
+  },
+  "Lattice Semiconductor Corporation": {
+    "ticker": "LSCC",
+    "sec_name": "LATTICE SEMICONDUCTOR CORP",
+    "similarity": 1.0
+  },
+  "ConocoPhillips Company": {
+    "ticker": "COP",
+    "sec_name": "CONOCOPHILLIPS",
+    "similarity": 1.0000000000000002
+  },
+  "Johnson & Johnson Vision Care, Inc.": {
+    "ticker": "JNJ",
+    "sec_name": "JOHNSON & JOHNSON",
+    "similarity": 0.9100976473205059
+  },
+  "Donaldson Company, Inc.": {
+    "ticker": "DCI",
+    "sec_name": "DONALDSON Co INC",
+    "similarity": 1.0
+  },
+  "Ford Motor Company": {
+    "ticker": "F",
+    "sec_name": "FORD MOTOR CO",
+    "similarity": 1.0000000000000004
+  },
+  "Graphic Packaging International, LLC": {
+    "ticker": "GPK",
+    "sec_name": "GRAPHIC PACKAGING HOLDING CO",
+    "similarity": 0.8942737687603864
+  },
+  "BAE SYSTEMS PLC": {
+    "ticker": "BAESY",
+    "sec_name": "BAE SYSTEMS PLC /FI/",
+    "similarity": 0.8127841830433122
+  },
+  "Zimmer, Inc.": {
+    "ticker": "ZBH",
+    "sec_name": "ZIMMER BIOMET HOLDINGS, INC.",
+    "similarity": 0.7686844697434715
+  },
+  "Universal Entertainment Corporation": {
+    "ticker": "EEGI",
+    "sec_name": "Eline Entertainment Group, Inc.",
+    "similarity": 0.6825569179384156
+  },
+  "Sanofi": {
+    "ticker": "SNY",
+    "sec_name": "Sanofi",
+    "similarity": 1.0
+  },
+  "VIASAT, INC.": {
+    "ticker": "VSAT",
+    "sec_name": "VIASAT INC",
+    "similarity": 1.0000000000000004
+  },
+  "Cabot Corporation": {
+    "ticker": "CBT",
+    "sec_name": "CABOT CORP",
+    "similarity": 1.0000000000000002
+  },
+  "Bio-Rad Laboratories, Inc.": {
+    "ticker": "BIO",
+    "sec_name": "BIO-RAD LABORATORIES, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "ECOLAB INC.": {
+    "ticker": "ECL",
+    "sec_name": "ECOLAB INC.",
+    "similarity": 1.0
+  },
+  "Target Brands, Inc.": {
+    "ticker": "TGT",
+    "sec_name": "TARGET CORP",
+    "similarity": 0.7633567111968289
+  },
+  "Gilead Sciences, Inc.": {
+    "ticker": "GILD",
+    "sec_name": "GILEAD SCIENCES, INC.",
+    "similarity": 1.0000000000000004
+  },
+  "SPX Corporation": {
+    "ticker": "SPXC",
+    "sec_name": "SPX Technologies, Inc.",
+    "similarity": 1.0000000000000002
+  },
+  "ARRIS Enterprises LLC": {
+    "ticker": "LEE",
+    "sec_name": "LEE ENTERPRISES, Inc",
+    "similarity": 0.6924225880727264
+  },
+  "Regeneron Pharmaceuticals, Inc.": {
+    "ticker": "REGN",
+    "sec_name": "REGENERON PHARMACEUTICALS, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "Teradyne, Inc.": {
+    "ticker": "TER",
+    "sec_name": "TERADYNE, INC",
+    "similarity": 1.0
+  },
+  "UNIVERSAL DISPLAY CORPORATION": {
+    "ticker": "OLED",
+    "sec_name": "UNIVERSAL DISPLAY CORP \\PA\\",
+    "similarity": 0.9359456959362336
+  },
+  "Quantum Corporation": {
+    "ticker": "QMCO",
+    "sec_name": "QUANTUM CORP /DE/",
+    "similarity": 0.9316147410436856
+  },
+  "ASML Holding N.V.": {
+    "ticker": "ASML",
+    "sec_name": "ASML HOLDING NV",
+    "similarity": 0.8864304015092971
+  },
+  "INTERNATIONAL PAPER COMPANY": {
+    "ticker": "IP",
+    "sec_name": "INTERNATIONAL PAPER CO /NEW/",
+    "similarity": 0.7982420496624876
+  },
+  "THE AEROSPACE CORPORATION": {
+    "ticker": "PKE",
+    "sec_name": "PARK AEROSPACE CORP",
+    "similarity": 0.8495645774956766
+  },
+  "Weyerhaeuser NR Company": {
+    "ticker": "WY",
+    "sec_name": "WEYERHAEUSER CO",
+    "similarity": 0.9183705797841859
+  },
+  "ALCOA INC.": {
+    "ticker": "AA",
+    "sec_name": "Alcoa Corp",
+    "similarity": 0.9999999999999999
+  },
+  "FormFactor, Inc.": {
+    "ticker": "FORM",
+    "sec_name": "FORMFACTOR INC",
+    "similarity": 1.0000000000000002
+  },
+  "SK Telecom Co., Ltd.": {
+    "ticker": "SKM",
+    "sec_name": "SK TELECOM CO LTD",
+    "similarity": 1.0
+  },
+  "United Parcel Service of America, Inc.": {
+    "ticker": "UPS",
+    "sec_name": "UNITED PARCEL SERVICE INC",
+    "similarity": 0.8614046044021639
+  },
+  "Fresenius Medical Care Deutschland GmbH": {
+    "ticker": "FMS",
+    "sec_name": "Fresenius Medical Care AG",
+    "similarity": 0.7703325219838271
+  },
+  "DEUTSCHE TELEKOM AG": {
+    "ticker": "DTEGY",
+    "sec_name": "DEUTSCHE TELEKOM AG",
+    "similarity": 1.0
+  },
+  "Linde GmbH": {
+    "ticker": "LIN",
+    "sec_name": "LINDE PLC",
+    "similarity": 1.0
+  },
+  "L-3 COMMUNICATIONS CORPORATION": {
+    "ticker": "SBAC",
+    "sec_name": "SBA COMMUNICATIONS CORP",
+    "similarity": 0.6997685993692152
+  },
+  "Adtran, Inc.": {
+    "ticker": "ADTN",
+    "sec_name": "ADTRAN Holdings, Inc.",
+    "similarity": 1.0000000000000002
+  },
+  "Align Technology, Inc.": {
+    "ticker": "ALGN",
+    "sec_name": "ALIGN TECHNOLOGY INC",
+    "similarity": 1.0
+  },
+  "STMicroelectronics International N.V.": {
+    "ticker": "STM",
+    "sec_name": "STMicroelectronics N.V.",
+    "similarity": 1.0000000000000002
+  },
+  "AGCO Corporation": {
+    "ticker": "AGCO",
+    "sec_name": "AGCO CORP /DE",
+    "similarity": 0.9137481552387785
+  },
+  "TEVA PHARMACEUTICAL INDUSTRIES, LTD.": {
+    "ticker": "TEVA",
+    "sec_name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+    "similarity": 1.0
+  },
+  "The Coca-Cola Company": {
+    "ticker": "KO",
+    "sec_name": "COCA COLA CO",
+    "similarity": 1.0000000000000002
+  },
+  "Baker Hughes, a GE Company, LLC": {
+    "ticker": "BKR",
+    "sec_name": "Baker Hughes Co",
+    "similarity": 0.9372557690578488
+  },
+  "Rigel Pharmaceuticals, Inc.": {
+    "ticker": "RIGL",
+    "sec_name": "RIGEL PHARMACEUTICALS INC",
+    "similarity": 1.0000000000000002
+  },
+  "ENTEGRIS, INC.": {
+    "ticker": "ENTG",
+    "sec_name": "ENTEGRIS INC",
+    "similarity": 1.0000000000000004
+  },
+  "Logitech Europe S.A.": {
+    "ticker": "LOGI",
+    "sec_name": "LOGITECH INTERNATIONAL S.A.",
+    "similarity": 0.7757677030718699
+  },
+  "Textron Innovations Inc.": {
+    "ticker": "TXT",
+    "sec_name": "TEXTRON INC",
+    "similarity": 0.6858637978157105
+  },
+  "FMC CORPORATION": {
+    "ticker": "FMC",
+    "sec_name": "FMC CORP",
+    "similarity": 1.0
+  },
+  "ABB AB": {
+    "ticker": "ABLZF",
+    "sec_name": "ABB LTD",
+    "similarity": 0.8928164437733244
+  },
+  "Johnson & Johnson Consumer Inc.": {
+    "ticker": "JNJ",
+    "sec_name": "JOHNSON & JOHNSON",
+    "similarity": 0.9026582463539334
+  },
+  "Axcelis Technologies, Inc.": {
+    "ticker": "ACLS",
+    "sec_name": "AXCELIS TECHNOLOGIES INC",
+    "similarity": 1.0
+  },
+  "Cognex Corporation": {
+    "ticker": "CGNX",
+    "sec_name": "COGNEX CORP",
+    "similarity": 1.0000000000000002
+  },
+  "ALBEMARLE CORPORATION": {
+    "ticker": "ALB",
+    "sec_name": "ALBEMARLE CORP",
+    "similarity": 0.9999999999999996
+  },
+  "Nektar Therapeutics": {
+    "ticker": "NKTR",
+    "sec_name": "NEKTAR THERAPEUTICS",
+    "similarity": 1.0000000000000002
+  },
+  "POLARIS INDUSTRIES INC.": {
+    "ticker": "PII",
+    "sec_name": "Polaris Inc.",
+    "similarity": 0.7504845123430867
+  },
+  "Coherent, Inc.": {
+    "ticker": "COHR",
+    "sec_name": "COHERENT CORP.",
+    "similarity": 1.0000000000000002
+  },
+  "HARTFORD FIRE INSURANCE COMPANY": {
+    "ticker": "HIG",
+    "sec_name": "HARTFORD INSURANCE GROUP, INC.",
+    "similarity": 0.9090200678569224
+  },
+  "Waters Technologies Corporation": {
+    "ticker": "WAT",
+    "sec_name": "WATERS CORP /DE/",
+    "similarity": 0.8939715445722554
+  },
+  "ISP INVESTMENTS LLC": {
+    "ticker": "SEIC",
+    "sec_name": "SEI INVESTMENTS CO",
+    "similarity": 0.716245297810273
+  },
+  "General Electric Technology GmbH": {
+    "ticker": "GE",
+    "sec_name": "GENERAL ELECTRIC CO",
+    "similarity": 1.0
+  },
+  "Universal Electronics Inc.": {
+    "ticker": "UEIC",
+    "sec_name": "UNIVERSAL ELECTRONICS INC",
+    "similarity": 1.0
+  },
+  "ATI Technologies Inc.": {
+    "ticker": "ATI",
+    "sec_name": "ATI INC",
+    "similarity": 1.0
+  },
+  "The Clorox Company": {
+    "ticker": "CLX",
+    "sec_name": "CLOROX CO /DE/",
+    "similarity": 0.9389801466126247
+  },
+  "Incyte Corporation": {
+    "ticker": "INCY",
+    "sec_name": "INCYTE CORP",
+    "similarity": 1.0
+  },
+  "General Mills, Inc.": {
+    "ticker": "GIS",
+    "sec_name": "GENERAL MILLS INC",
+    "similarity": 1.0000000000000002
+  },
+  "BALLARD POWER SYSTEMS INC.": {
+    "ticker": "BLDP",
+    "sec_name": "Ballard Power Systems Inc.",
+    "similarity": 1.0000000000000002
+  },
+  "Snap-on Incorporated": {
+    "ticker": "SNA",
+    "sec_name": "Snap-on Inc",
+    "similarity": 0.6858118332736785
+  },
+  "Akamai Technologies, Inc.": {
+    "ticker": "AKAM",
+    "sec_name": "AKAMAI TECHNOLOGIES INC",
+    "similarity": 1.0
+  },
+  "Infosys Limited": {
+    "ticker": "INFY",
+    "sec_name": "Infosys Ltd",
+    "similarity": 1.0000000000000002
+  },
+  "Illumina, Inc.": {
+    "ticker": "ILMN",
+    "sec_name": "ILLUMINA, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "ARCHER-DANIELS-MIDLAND COMPANY": {
+    "ticker": "ADM",
+    "sec_name": "Archer-Daniels-Midland Co",
+    "similarity": 0.9999999999999996
+  },
+  "MAGNA INTERNATIONAL INC.": {
+    "ticker": "MGA",
+    "sec_name": "MAGNA INTERNATIONAL INC",
+    "similarity": 1.0
+  },
+  "Wipro Limited": {
+    "ticker": "WIT",
+    "sec_name": "WIPRO LTD",
+    "similarity": 1.0000000000000002
+  },
+  "Citizen Holdings Co., Ltd.": {
+    "ticker": "CIA",
+    "sec_name": "CITIZENS, INC.",
+    "similarity": 0.8340799220563624
+  },
+  "ABB AG": {
+    "ticker": "ABLZF",
+    "sec_name": "ABB LTD",
+    "similarity": 1.0000000000000002
+  },
+  "Cox Communications, Inc.": {
+    "ticker": "CCOI",
+    "sec_name": "COGENT COMMUNICATIONS HOLDINGS, INC.",
+    "similarity": 0.6844793675658739
+  },
+  "Oracle Corporation": {
+    "ticker": "ORCL",
+    "sec_name": "ORACLE CORP",
+    "similarity": 1.0000000000000002
+  },
+  "Electro Scientific Industries, Inc.": {
+    "ticker": "SCND",
+    "sec_name": "SCIENTIFIC INDUSTRIES INC",
+    "similarity": 0.8668635445876256
+  },
+  "Mettler-Toledo GmbH": {
+    "ticker": "MTD",
+    "sec_name": "METTLER TOLEDO INTERNATIONAL INC/",
+    "similarity": 1.0
+  },
+  "TRANE INTERNATIONAL INC.": {
+    "ticker": "TT",
+    "sec_name": "Trane Technologies plc",
+    "similarity": 1.0
+  },
+  "International Flavors & Fragrances Inc.": {
+    "ticker": "IFF",
+    "sec_name": "INTERNATIONAL FLAVORS & FRAGRANCES INC",
+    "similarity": 0.9999999999999998
+  },
+  "THE TORO COMPANY": {
+    "ticker": "TTC",
+    "sec_name": "TORO CO",
+    "similarity": 1.0000000000000002
+  },
+  "CTS CORPORATION": {
+    "ticker": "CTS",
+    "sec_name": "CTS CORP",
+    "similarity": 1.0000000000000002
+  },
+  "Lennox Industries Inc.": {
+    "ticker": "LII",
+    "sec_name": "LENNOX INTERNATIONAL INC",
+    "similarity": 0.7789496213655394
+  },
+  "Itron, Inc.": {
+    "ticker": "ITRI",
+    "sec_name": "ITRON, INC.",
+    "similarity": 1.0
+  },
+  "Siemens Automotive Corporation": {
+    "ticker": "GPI",
+    "sec_name": "GROUP 1 AUTOMOTIVE INC",
+    "similarity": 0.6936674032310153
+  },
+  "Allstate Insurance Company": {
+    "ticker": "ALL",
+    "sec_name": "ALLSTATE CORP",
+    "similarity": 0.7159168310132187
+  },
+  "Gore Enterprise Holdings, Inc.": {
+    "ticker": "GEGP",
+    "sec_name": "GOLD ENTERPRISE GROUP INC",
+    "similarity": 0.74552622883135
+  },
+  "FMC Technologies, Inc.": {
+    "ticker": "FMC",
+    "sec_name": "FMC CORP",
+    "similarity": 1.0
+  },
+  "Amphenol Corporation": {
+    "ticker": "APH",
+    "sec_name": "AMPHENOL CORP /DE/",
+    "similarity": 0.950380888659395
+  },
+  "University of South Carolina": {
+    "ticker": "BKSC",
+    "sec_name": "BANK OF SOUTH CAROLINA CORP",
+    "similarity": 0.7621077262206001
+  },
+  "Goldman Sachs & Co. LLC": {
+    "ticker": "GS",
+    "sec_name": "GOLDMAN SACHS GROUP INC",
+    "similarity": 1.0000000000000002
+  },
+  "POSCO CO., LTD": {
+    "ticker": "PKX",
+    "sec_name": "POSCO HOLDINGS INC.",
+    "similarity": 1.0000000000000002
+  },
+  "VeriSign, Inc.": {
+    "ticker": "VRSN",
+    "sec_name": "VERISIGN INC/CA",
+    "similarity": 0.9164029925245694
+  },
+  "Quest Diagnostics Investments Incoporated": {
+    "ticker": "DGX",
+    "sec_name": "QUEST DIAGNOSTICS INC",
+    "similarity": 0.6910767861690161
+  },
+  "MICROVISION, INC.": {
+    "ticker": "MVIS",
+    "sec_name": "MICROVISION, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "MODINE MANUFACTURING COMPANY": {
+    "ticker": "MOD",
+    "sec_name": "MODINE MANUFACTURING CO",
+    "similarity": 1.0000000000000002
+  },
+  "Honeywell Limited": {
+    "ticker": "HON",
+    "sec_name": "HONEYWELL INTERNATIONAL INC",
+    "similarity": 1.0
+  },
+  "Stratasys, Inc.": {
+    "ticker": "SSYS",
+    "sec_name": "STRATASYS LTD.",
+    "similarity": 1.0000000000000002
+  },
+  "Extreme Networks, Inc.": {
+    "ticker": "EXTR",
+    "sec_name": "EXTREME NETWORKS INC",
+    "similarity": 1.0000000000000002
+  },
+  "Bristol-Myers Squibb Pharma Company": {
+    "ticker": "BMY",
+    "sec_name": "BRISTOL MYERS SQUIBB CO",
+    "similarity": 0.9324984532420666
+  },
+  "AMDOCS SOFTWARE SYSTEMS LIMITED": {
+    "ticker": "DOX",
+    "sec_name": "AMDOCS LTD",
+    "similarity": 0.7463458068288611
+  },
+  "FRESENIUS MEDICAL CARE HOLDINGS, INC.": {
+    "ticker": "FMS",
+    "sec_name": "Fresenius Medical Care AG",
+    "similarity": 1.0000000000000002
+  },
+  "Garmin Ltd.": {
+    "ticker": "GRMN",
+    "sec_name": "GARMIN LTD",
+    "similarity": 1.0000000000000002
+  },
+  "Bruker Biospin GmbH": {
+    "ticker": "BRKR",
+    "sec_name": "BRUKER CORP",
+    "similarity": 0.7261273924582126
+  },
+  "Sensor Electronic Technology, Inc.": {
+    "ticker": "ELSE",
+    "sec_name": "ELECTRO SENSORS INC",
+    "similarity": 0.7105430958903689
+  },
+  "Wells Fargo Bank, N.A.": {
+    "ticker": "WFC",
+    "sec_name": "WELLS FARGO & COMPANY/MN",
+    "similarity": 0.7459864581208643
+  },
+  "Automotive Technologies International, Inc.": {
+    "ticker": "GPI",
+    "sec_name": "GROUP 1 AUTOMOTIVE INC",
+    "similarity": 0.9079363260797577
+  },
+  "Veeco Instruments Inc.": {
+    "ticker": "VECO",
+    "sec_name": "VEECO INSTRUMENTS INC",
+    "similarity": 1.0000000000000002
+  },
+  "Boston Scientific Limited": {
+    "ticker": "BSX",
+    "sec_name": "BOSTON SCIENTIFIC CORP",
+    "similarity": 1.0000000000000004
+  },
+  "Elan Pharmaceuticals, Inc.": {
+    "ticker": "ANIP",
+    "sec_name": "ANI PHARMACEUTICALS INC",
+    "similarity": 0.7244324983822737
+  },
+  "University of Cincinnati": {
+    "ticker": "CINF",
+    "sec_name": "CINCINNATI FINANCIAL CORP",
+    "similarity": 0.7000221099666987
+  },
+  "STERIS Corporation": {
+    "ticker": "STE",
+    "sec_name": "STERIS plc",
+    "similarity": 1.0
+  },
+  "Albany International Corp": {
+    "ticker": "AIN",
+    "sec_name": "ALBANY INTERNATIONAL CORP /DE/",
+    "similarity": 0.9334789145976962
+  },
+  "ParkerVision, Inc.": {
+    "ticker": "PRKR",
+    "sec_name": "PARKERVISION INC",
+    "similarity": 1.0
+  },
+  "BIOGEN IDEC MA INC.": {
+    "ticker": "BIIB",
+    "sec_name": "BIOGEN INC.",
+    "similarity": 0.6946036338077665
+  },
+  "PACCAR Inc.": {
+    "ticker": "PCAR",
+    "sec_name": "PACCAR INC",
+    "similarity": 1.0
+  },
+  "THE TIMKEN COMPANY": {
+    "ticker": "TKR",
+    "sec_name": "TIMKEN CO",
+    "similarity": 1.0
+  },
+  "Fluor Technologies Corporation": {
+    "ticker": "FLR",
+    "sec_name": "FLUOR CORP",
+    "similarity": 1.0
+  },
+  "Capital One Financial Corporation": {
+    "ticker": "COF",
+    "sec_name": "CAPITAL ONE FINANCIAL CORP",
+    "similarity": 1.0000000000000002
+  },
+  "HARMONIC DRIVE SYSTEMS INC.": {
+    "ticker": "HLIT",
+    "sec_name": "HARMONIC INC.",
+    "similarity": 0.7703766420538998
+  },
+  "VODAFONE GROUP PLC.": {
+    "ticker": "VOD",
+    "sec_name": "VODAFONE GROUP PUBLIC LTD CO",
+    "similarity": 0.8073196489993723
+  },
+  "Advanced Energy Industries, Inc.": {
+    "ticker": "AEIS",
+    "sec_name": "ADVANCED ENERGY INDUSTRIES INC",
+    "similarity": 1.0000000000000002
+  },
+  "PepsiCo, Inc.": {
+    "ticker": "PEP",
+    "sec_name": "PEPSICO INC",
+    "similarity": 1.0000000000000004
+  },
+  "Continental AG": {
+    "ticker": "TY",
+    "sec_name": "TRI-CONTINENTAL Corp",
+    "similarity": 0.8778724593525252
+  },
+  "American Superconductor Corporation": {
+    "ticker": "AMSC",
+    "sec_name": "AMERICAN SUPERCONDUCTOR CORP /DE/",
+    "similarity": 0.968842180919387
+  },
+  "Hasbro, Inc.": {
+    "ticker": "HAS",
+    "sec_name": "HASBRO, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "Petr\u00f3leo Brasileiro S.A.\u2014Petrobras": {
+    "ticker": "PBR",
+    "sec_name": "PETROBRAS - PETROLEO BRASILEIRO SA",
+    "similarity": 0.9119740525496652
+  },
+  "QIAGEN GmbH": {
+    "ticker": "QGEN",
+    "sec_name": "QIAGEN N.V.",
+    "similarity": 0.9261994902940469
+  },
+  "Astec International Limited": {
+    "ticker": "MTZ",
+    "sec_name": "MASTEC INC",
+    "similarity": 0.6916407891920472
+  },
+  "Littelfuse, Inc.": {
+    "ticker": "LFUS",
+    "sec_name": "LITTELFUSE INC /DE",
+    "similarity": 0.9608504655787996
+  },
+  "BGC PARTNERS, INC.": {
+    "ticker": "BGC",
+    "sec_name": "BGC Group, Inc.",
+    "similarity": 0.6992429282972054
+  },
+  "INNOVATIVE SONIC CORPORATION": {
+    "ticker": "IVFH",
+    "sec_name": "INNOVATIVE FOOD HOLDINGS INC",
+    "similarity": 0.6824756008227726
+  },
+  "EMCORE CORPORATION": {
+    "ticker": "EME",
+    "sec_name": "EMCOR Group, Inc.",
+    "similarity": 0.8138831133865452
+  },
+  "UNIVERSITY OF PITTSBURGH": {
+    "ticker": "AP",
+    "sec_name": "AMPCO PITTSBURGH CORP",
+    "similarity": 0.6955381493767228
+  },
+  "Textron Inc.": {
+    "ticker": "TXT",
+    "sec_name": "TEXTRON INC",
+    "similarity": 1.0
+  },
+  "Merit Medical Systems, Inc.": {
+    "ticker": "MMSI",
+    "sec_name": "MERIT MEDICAL SYSTEMS INC",
+    "similarity": 1.0000000000000004
+  },
+  "Nucor Corporation": {
+    "ticker": "NUE",
+    "sec_name": "NUCOR CORP",
+    "similarity": 1.0
+  },
+  "ICU Medical. Inc.": {
+    "ticker": "ICUI",
+    "sec_name": "ICU MEDICAL INC/DE",
+    "similarity": 0.9372113832616766
+  },
+  "IDEXX LABORATORIES, INC.": {
+    "ticker": "IDXX",
+    "sec_name": "IDEXX LABORATORIES INC /DE",
+    "similarity": 0.96803441684888
+  },
+  "Wilson Sporting Goods Co.": {
+    "ticker": "DKS",
+    "sec_name": "DICK'S SPORTING GOODS, INC.",
+    "similarity": 0.6816164618357407
+  },
+  "Fair Isaac Corporation": {
+    "ticker": "FICO",
+    "sec_name": "FAIR ISAAC CORP",
+    "similarity": 1.0
+  },
+  "BRITISH AMERICAN TOBACCO (INVESTMENTS) LIMITED": {
+    "ticker": "BTI",
+    "sec_name": "British American Tobacco p.l.c.",
+    "similarity": 0.8139228346510807
+  },
+  "Harley-Davidson Motor Company, Inc.": {
+    "ticker": "HOG",
+    "sec_name": "HARLEY-DAVIDSON, INC.",
+    "similarity": 0.9032040333091728
+  },
+  "Dentsply International Inc.": {
+    "ticker": "XRAY",
+    "sec_name": "DENTSPLY SIRONA Inc.",
+    "similarity": 0.7737730396770661
+  },
+  "Johnson Controls, Inc.": {
+    "ticker": "JCI",
+    "sec_name": "Johnson Controls International plc",
+    "similarity": 1.0000000000000002
+  },
+  "ExxonMobil Oil Corporation": {
+    "ticker": "XOM",
+    "sec_name": "EXXON MOBIL CORP",
+    "similarity": 0.7255344605141696
+  },
+  "ChipMOS Technologies Inc.": {
+    "ticker": "IMOS",
+    "sec_name": "CHIPMOS TECHNOLOGIES INC",
+    "similarity": 1.0
+  },
+  "Westinghouse Air Brake Technologies Corporation": {
+    "ticker": "WAB",
+    "sec_name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+    "similarity": 1.0000000000000002
+  },
+  "Amazon.com, Inc.": {
+    "ticker": "AMZN",
+    "sec_name": "AMAZON COM INC",
+    "similarity": 1.0
+  },
+  "Open Text S.A.": {
+    "ticker": "OTEX",
+    "sec_name": "OPEN TEXT CORP",
+    "similarity": 0.9565904395871286
+  },
+  "Semtech Corporation": {
+    "ticker": "SMTC",
+    "sec_name": "SEMTECH CORP",
+    "similarity": 1.0000000000000002
+  },
+  "The Sherwin-Williams Company": {
+    "ticker": "SHW",
+    "sec_name": "SHERWIN WILLIAMS CO",
+    "similarity": 1.0
+  },
+  "KOPIN CORPORATION": {
+    "ticker": "KOPN",
+    "sec_name": "KOPIN CORP",
+    "similarity": 1.0
+  },
+  "Crown Cork & Seal Technologies Corporation": {
+    "ticker": "CCK",
+    "sec_name": "CROWN HOLDINGS, INC.",
+    "similarity": 0.694574769408077
+  },
+  "DR. REDDY'S LABORATORIES LIMITED": {
+    "ticker": "RDY",
+    "sec_name": "DR REDDYS LABORATORIES LTD",
+    "similarity": 0.8694748042026125
+  },
+  "Thermo Fisher Scientific (Bremen) GmbH": {
+    "ticker": "TMO",
+    "sec_name": "THERMO FISHER SCIENTIFIC INC.",
+    "similarity": 0.8811503208765875
+  },
+  "Reliance Electric Technologies, LLC": {
+    "ticker": "RS",
+    "sec_name": "RELIANCE, INC.",
+    "similarity": 0.766679762482516
+  },
+  "Mueller International, LLC": {
+    "ticker": "MLI",
+    "sec_name": "MUELLER INDUSTRIES INC",
+    "similarity": 0.7727427051557042
+  },
+  "STMICROELECTRONICS N.V.": {
+    "ticker": "STM",
+    "sec_name": "STMicroelectronics N.V.",
+    "similarity": 1.0000000000000002
+  },
+  "Geron Corporation": {
+    "ticker": "GERN",
+    "sec_name": "GERON CORP",
+    "similarity": 1.0
+  },
+  "Smith & Nephew PLC": {
+    "ticker": "SNN",
+    "sec_name": "SMITH & NEPHEW PLC",
+    "similarity": 1.0
+  },
+  "STMicroelectronics Pte Ltd": {
+    "ticker": "STM",
+    "sec_name": "STMicroelectronics N.V.",
+    "similarity": 0.8807956413809714
+  },
+  "MORGAN STANLEY": {
+    "ticker": "MS",
+    "sec_name": "MORGAN STANLEY",
+    "similarity": 1.0000000000000002
+  },
+  "Plug Power Inc.": {
+    "ticker": "PLUG",
+    "sec_name": "PLUG POWER INC",
+    "similarity": 1.0
+  },
+  "Netflix, Inc.": {
+    "ticker": "NFLX",
+    "sec_name": "NETFLIX INC",
+    "similarity": 1.0000000000000002
+  },
+  "TOWER PARTNERS SEMICONDUCTOR CO., LTD.": {
+    "ticker": "TSEM",
+    "sec_name": "TOWER SEMICONDUCTOR LTD",
+    "similarity": 0.8371951432472864
+  },
+  "NICE-SYSTEMS LTD.": {
+    "ticker": "NICE",
+    "sec_name": "NICE Ltd.",
+    "similarity": 1.0
+  },
+  "AWARE, INC.": {
+    "ticker": "AWRE",
+    "sec_name": "AWARE INC /MA/",
+    "similarity": 0.8800845221518822
+  },
+  "Thermo Fisher Scientific Inc.": {
+    "ticker": "TMO",
+    "sec_name": "THERMO FISHER SCIENTIFIC INC.",
+    "similarity": 1.0000000000000002
+  },
+  "HELEN OF TROY LIMITED": {
+    "ticker": "HELE",
+    "sec_name": "HELEN OF TROY LTD",
+    "similarity": 1.0000000000000002
+  },
+  "Methode Electronics, Inc.": {
+    "ticker": "MEI",
+    "sec_name": "METHODE ELECTRONICS INC",
+    "similarity": 1.0
+  },
+  "PIXELWORKS, INC.": {
+    "ticker": "PXLW",
+    "sec_name": "PIXELWORKS, INC",
+    "similarity": 1.0000000000000002
+  },
+  "Smith & Wesson Inc.": {
+    "ticker": "SWBI",
+    "sec_name": "SMITH & WESSON BRANDS, INC.",
+    "similarity": 0.837511884859637
+  },
+  "Moog Inc.": {
+    "ticker": "MOG-A",
+    "sec_name": "MOOG INC.",
+    "similarity": 1.0
+  },
+  "Woodward, Inc.": {
+    "ticker": "WWD",
+    "sec_name": "Woodward, Inc.",
+    "similarity": 1.0
+  },
+  "Walmart Apollo, LLC": {
+    "ticker": "WMT",
+    "sec_name": "Walmart Inc.",
+    "similarity": 0.729533948992089
+  },
+  "Digi International Inc.": {
+    "ticker": "DGII",
+    "sec_name": "DIGI INTERNATIONAL INC",
+    "similarity": 1.0000000000000002
+  },
+  "BCE Inc.": {
+    "ticker": "BCE",
+    "sec_name": "BCE INC",
+    "similarity": 1.0
+  },
+  "MITEK HOLDINGS, INC.": {
+    "ticker": "MITK",
+    "sec_name": "MITEK SYSTEMS INC",
+    "similarity": 1.0
+  },
+  "Trimble Inc.": {
+    "ticker": "TRMB",
+    "sec_name": "TRIMBLE INC.",
+    "similarity": 1.0
+  },
+  "TENNANT COMPANY": {
+    "ticker": "TNC",
+    "sec_name": "TENNANT CO",
+    "similarity": 1.0000000000000004
+  },
+  "PDF SOLUTIONS, INC.": {
+    "ticker": "PDFS",
+    "sec_name": "PDF SOLUTIONS INC",
+    "similarity": 0.9999999999999999
+  },
+  "A. O. Smith Corporation": {
+    "ticker": "AOS",
+    "sec_name": "SMITH A O CORP",
+    "similarity": 1.0000000000000004
+  },
+  "NETGEAR, INC.": {
+    "ticker": "NTGR",
+    "sec_name": "NETGEAR, INC.",
+    "similarity": 1.0
+  },
+  "National Steel Car Limited": {
+    "ticker": "SID",
+    "sec_name": "NATIONAL STEEL CO",
+    "similarity": 0.9044537028951697
+  },
+  "UTStarcom, Inc.": {
+    "ticker": "UTSI",
+    "sec_name": "UTSTARCOM HOLDINGS CORP.",
+    "similarity": 0.9999999999999999
+  },
+  "SWISSCOM AG": {
+    "ticker": "SCMWY",
+    "sec_name": "SWISSCOM AG",
+    "similarity": 1.0
+  },
+  "Church & Dwight Co., Inc.": {
+    "ticker": "CHD",
+    "sec_name": "CHURCH & DWIGHT CO INC /DE/",
+    "similarity": 0.9646887926315698
+  },
+  "Becton Dickinson France": {
+    "ticker": "BDX",
+    "sec_name": "BECTON DICKINSON & CO",
+    "similarity": 0.8900904437514603
+  },
+  "Exelixis, Inc.": {
+    "ticker": "EXEL",
+    "sec_name": "EXELIXIS, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "KOREA ELECTRIC POWER CORPORATION": {
+    "ticker": "KEP",
+    "sec_name": "KOREA ELECTRIC POWER CORP",
+    "similarity": 0.9999999999999999
+  },
+  "Ashland, Inc.": {
+    "ticker": "ASH",
+    "sec_name": "ASHLAND INC.",
+    "similarity": 1.0
+  },
+  "York International Corporation": {
+    "ticker": "YORW",
+    "sec_name": "YORK WATER CO",
+    "similarity": 0.740484985955053
+  },
+  "Brown University": {
+    "ticker": "BRO",
+    "sec_name": "BROWN & BROWN, INC.",
+    "similarity": 0.7304746931712585
+  },
+  "Marvell International Technology Ltd": {
+    "ticker": "MRVL",
+    "sec_name": "Marvell Technology, Inc.",
+    "similarity": 1.0
+  },
+  "Caterpillar SARL": {
+    "ticker": "CAT",
+    "sec_name": "CATERPILLAR INC",
+    "similarity": 0.8467688443914987
+  },
+  "Dynamics Inc.": {
+    "ticker": "STLD",
+    "sec_name": "STEEL DYNAMICS INC",
+    "similarity": 0.8003270753782993
+  },
+  "Hexcel Corporation": {
+    "ticker": "HXL",
+    "sec_name": "HEXCEL CORP /DE/",
+    "similarity": 0.935376198748726
+  },
+  "Whirlpool S.A.": {
+    "ticker": "WHR",
+    "sec_name": "WHIRLPOOL CORP /DE/",
+    "similarity": 0.9384578427929
+  },
+  "Brady Worldwide, Inc.": {
+    "ticker": "ACIW",
+    "sec_name": "ACI WORLDWIDE, INC.",
+    "similarity": 0.6848707246601481
+  },
+  "Stepan Company": {
+    "ticker": "SCL",
+    "sec_name": "STEPAN CO",
+    "similarity": 1.0000000000000002
+  },
+  "Westinghouse Air Brake Co.": {
+    "ticker": "WAB",
+    "sec_name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+    "similarity": 1.0000000000000002
+  },
+  "Oceaneering International, Inc.": {
+    "ticker": "OII",
+    "sec_name": "OCEANEERING INTERNATIONAL INC",
+    "similarity": 1.0000000000000002
+  },
+  "INTUITIVE SURGICAL, INC.": {
+    "ticker": "ISRG",
+    "sec_name": "INTUITIVE SURGICAL INC",
+    "similarity": 0.9999999999999999
+  },
+  "Electronic Arts Inc.": {
+    "ticker": "EA",
+    "sec_name": "ELECTRONIC ARTS INC.",
+    "similarity": 1.0000000000000002
+  },
+  "Curis, Inc.": {
+    "ticker": "CRIS",
+    "sec_name": "CURIS INC",
+    "similarity": 1.0
+  },
+  "OSI Pharmaceuticals, LLC": {
+    "ticker": "CASIF",
+    "sec_name": "CASI Pharmaceuticals, Inc.",
+    "similarity": 0.7335846379912716
+  },
+  "Stanley Black & Decker, Inc.": {
+    "ticker": "SWK",
+    "sec_name": "STANLEY BLACK & DECKER, INC.",
+    "similarity": 0.9999999999999998
+  },
+  "Medtronic Ave, Inc.": {
+    "ticker": "MDT",
+    "sec_name": "Medtronic plc",
+    "similarity": 0.8585944263860109
+  },
+  "OSHKOSH CORPORATION": {
+    "ticker": "OSK",
+    "sec_name": "OSHKOSH CORP",
+    "similarity": 1.0000000000000002
+  },
+  "Flowserve Management Company": {
+    "ticker": "FLS",
+    "sec_name": "FLOWSERVE CORP",
+    "similarity": 0.7899606201813388
+  },
+  "QUALCOMM Technologies, Inc.": {
+    "ticker": "QCOM",
+    "sec_name": "QUALCOMM INC/DE",
+    "similarity": 0.9436969181506043
+  },
+  "VIAVI Solutions Inc.": {
+    "ticker": "VIAV",
+    "sec_name": "VIAVI SOLUTIONS INC.",
+    "similarity": 1.0
+  },
+  "BALL CORPORATION": {
+    "ticker": "BALL",
+    "sec_name": "BALL Corp",
+    "similarity": 1.0
+  },
+  "Snap-On Technologies, Inc.": {
+    "ticker": "SNA",
+    "sec_name": "Snap-on Inc",
+    "similarity": 1.0
+  },
+  "FUELCELL ENERGY, INC": {
+    "ticker": "FCEL",
+    "sec_name": "FUELCELL ENERGY INC",
+    "similarity": 1.0000000000000002
+  },
+  "Cisco Systems Inc.": {
+    "ticker": "CSCO",
+    "sec_name": "CISCO SYSTEMS, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "8x8, Inc.": {
+    "ticker": "EGHT",
+    "sec_name": "8X8 INC /DE/",
+    "similarity": 0.9368197604315561
+  },
+  "GENTHERM INCORPORATED": {
+    "ticker": "THRM",
+    "sec_name": "Gentherm Inc",
+    "similarity": 0.6903378494322685
+  },
+  "QUALCOMM TECHNOLOGIES INTERNATIONAL, LTD.": {
+    "ticker": "QCOM",
+    "sec_name": "QUALCOMM INC/DE",
+    "similarity": 0.9436969181506043
+  },
+  "Alkermes Pharma Ireland Limited": {
+    "ticker": "ALKS",
+    "sec_name": "Alkermes plc.",
+    "similarity": 0.7144242126106524
+  },
+  "Comcast Cable Holdings, LLC": {
+    "ticker": "CMCSA",
+    "sec_name": "COMCAST CORP",
+    "similarity": 0.7954952778324957
+  },
+  "TELEDYNE INSTRUMENTS, INC.": {
+    "ticker": "TDY",
+    "sec_name": "TELEDYNE TECHNOLOGIES INC",
+    "similarity": 0.7217976877210668
+  },
+  "Kulicke and Soffa Industries, Inc.": {
+    "ticker": "KLIC",
+    "sec_name": "KULICKE & SOFFA INDUSTRIES INC",
+    "similarity": 1.0
+  },
+  "Cummins IP, Inc.": {
+    "ticker": "CMI",
+    "sec_name": "CUMMINS INC",
+    "similarity": 0.9069562509952819
+  },
+  "Rockwell Technologies, Inc.": {
+    "ticker": "RMTI",
+    "sec_name": "ROCKWELL MEDICAL, INC.",
+    "similarity": 0.849931953712995
+  },
+  "Alexion Pharmaceuticals, Inc.": {
+    "ticker": "LXRX",
+    "sec_name": "LEXICON PHARMACEUTICALS, INC.",
+    "similarity": 0.699209303501366
+  },
+  "Ionis Pharmaceuticals, Inc.": {
+    "ticker": "IONS",
+    "sec_name": "IONIS PHARMACEUTICALS INC",
+    "similarity": 1.0
+  },
+  "CHARLES SCHWAB & CO., INC.": {
+    "ticker": "SCHW",
+    "sec_name": "SCHWAB CHARLES CORP",
+    "similarity": 1.0000000000000002
+  },
+  "INFOSYS TECHNOLOGIES, LTD.": {
+    "ticker": "INFY",
+    "sec_name": "Infosys Ltd",
+    "similarity": 1.0000000000000002
+  },
+  "Federal Signal Corporation": {
+    "ticker": "FSS",
+    "sec_name": "FEDERAL SIGNAL CORP /DE/",
+    "similarity": 0.958388401742009
+  },
+  "BIOMARIN PHARMACEUTICAL INC.": {
+    "ticker": "BMRN",
+    "sec_name": "BIOMARIN PHARMACEUTICAL INC",
+    "similarity": 1.0
+  },
+  "PEARSON EDUCATION, INC.": {
+    "ticker": "PSO",
+    "sec_name": "PEARSON PLC",
+    "similarity": 0.7395986756594832
+  },
+  "ELBIT SYSTEMS LTD.": {
+    "ticker": "ESLT",
+    "sec_name": "ELBIT SYSTEMS LTD",
+    "similarity": 1.0
+  },
+  "Biogen MA Inc.": {
+    "ticker": "BIIB",
+    "sec_name": "BIOGEN INC.",
+    "similarity": 0.8895448077335086
+  },
+  "Johnson Outdoors Inc.": {
+    "ticker": "JOUT",
+    "sec_name": "JOHNSON OUTDOORS INC",
+    "similarity": 1.0
+  },
+  "Daktronics, Inc.": {
+    "ticker": "DAKT",
+    "sec_name": "DAKTRONICS INC /SD/",
+    "similarity": 0.8655252687183937
+  },
+  "D B Industries, LLC": {
+    "ticker": "RFIL",
+    "sec_name": "R F INDUSTRIES LTD",
+    "similarity": 0.783746402171855
+  },
+  "THE PNC FINANCIAL SERVICES GROUP, INC.": {
+    "ticker": "PNC",
+    "sec_name": "PNC FINANCIAL SERVICES GROUP, INC.",
+    "similarity": 0.9999999999999999
+  },
+  "Enterprise Holdings, Inc.": {
+    "ticker": "GEGP",
+    "sec_name": "GOLD ENTERPRISE GROUP INC",
+    "similarity": 0.8511582952919642
+  },
+  "Comcast IP Holdings I, LLC": {
+    "ticker": "CMCSA",
+    "sec_name": "COMCAST CORP",
+    "similarity": 0.8659030788817093
+  },
+  "ICON IP, Inc.": {
+    "ticker": "ICLR",
+    "sec_name": "ICON PLC",
+    "similarity": 0.8063033821726924
+  },
+  "General Dynamics C4 Systems, Inc.": {
+    "ticker": "GD",
+    "sec_name": "GENERAL DYNAMICS CORP",
+    "similarity": 0.8500442018784378
+  },
+  "Myriad Genetics, Inc.": {
+    "ticker": "MYGN",
+    "sec_name": "MYRIAD GENETICS INC",
+    "similarity": 1.0000000000000002
+  },
+  "BRUKER NANO GMBH": {
+    "ticker": "BRKR",
+    "sec_name": "BRUKER CORP",
+    "similarity": 0.822222881684685
+  },
+  "Olin Corporation": {
+    "ticker": "OLN",
+    "sec_name": "OLIN Corp",
+    "similarity": 1.0
+  },
+  "Valmont Industries, Inc.": {
+    "ticker": "VMI",
+    "sec_name": "VALMONT INDUSTRIES INC",
+    "similarity": 0.9999999999999999
+  },
+  "Wabash National, L.P.": {
+    "ticker": "WNC",
+    "sec_name": "WABASH NATIONAL Corp",
+    "similarity": 0.9592329915640256
+  },
+  "EMBRAER S.A.": {
+    "ticker": "EMBJ",
+    "sec_name": "EMBRAER S.A.",
+    "similarity": 1.0
+  },
+  "Sunovion Pharmaceuticals Inc.": {
+    "ticker": "INO",
+    "sec_name": "INOVIO PHARMACEUTICALS, INC.",
+    "similarity": 0.7402185263118273
+  },
+  "Textron Systems Corporation": {
+    "ticker": "TXT",
+    "sec_name": "TEXTRON INC",
+    "similarity": 1.0
+  },
+  "Neurocrine Biosciences, Inc.": {
+    "ticker": "NBIX",
+    "sec_name": "NEUROCRINE BIOSCIENCES INC",
+    "similarity": 1.0000000000000002
+  },
+  "ESCO GROUP LLC": {
+    "ticker": "ESE",
+    "sec_name": "ESCO TECHNOLOGIES INC",
+    "similarity": 1.0
+  },
+  "LEXICON PHARMACEUTICALS, INC.": {
+    "ticker": "LXRX",
+    "sec_name": "LEXICON PHARMACEUTICALS, INC.",
+    "similarity": 1.0
+  },
+  "AstraZeneca UK Limited": {
+    "ticker": "AZN",
+    "sec_name": "ASTRAZENECA PLC",
+    "similarity": 0.9210466665469728
+  },
+  "Gilat Satellite Networks Ltd.": {
+    "ticker": "GILT",
+    "sec_name": "GILAT SATELLITE NETWORKS LTD",
+    "similarity": 1.0
+  },
+  "James Hardie Technology Limited": {
+    "ticker": "JHX",
+    "sec_name": "James Hardie Industries plc",
+    "similarity": 0.8411211609047959
+  },
+  "Semiconductor Manufacturing International Corp.": {
+    "ticker": "TSM",
+    "sec_name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+    "similarity": 0.8566747682980786
+  },
+  "Honeywell ASCa": {
+    "ticker": "HON",
+    "sec_name": "HONEYWELL INTERNATIONAL INC",
+    "similarity": 0.849216485352563
+  },
+  "Teleflex Incorporated": {
+    "ticker": "TFX",
+    "sec_name": "TELEFLEX INC",
+    "similarity": 0.7400553416723402
+  },
+  "Conmed Corporation": {
+    "ticker": "CNMD",
+    "sec_name": "CONMED Corp",
+    "similarity": 1.0
+  },
+  "Southern Imperial LLC": {
+    "ticker": "SO",
+    "sec_name": "SOUTHERN CO",
+    "similarity": 0.7012287417023222
+  },
+  "Sirius XM Radio Inc.": {
+    "ticker": "SIRI",
+    "sec_name": "SIRIUS XM HOLDINGS INC.",
+    "similarity": 0.834417710070965
+  },
+  "INFORMATICA LLC": {
+    "ticker": "CASS",
+    "sec_name": "CASS INFORMATION SYSTEMS INC",
+    "similarity": 0.6818331536491034
+  },
+  "La-Z-Boy Incorporated": {
+    "ticker": "LZB",
+    "sec_name": "LA-Z-BOY INC",
+    "similarity": 0.6929167099994328
+  },
+  "Cross Match Technologies, Inc.": {
+    "ticker": "MTCH",
+    "sec_name": "Match Group, Inc.",
+    "similarity": 0.7209778063044608
+  },
+  "ACORN TECHNOLOGIES, INC.": {
+    "ticker": "ACFN",
+    "sec_name": "ACORN ENERGY, INC.",
+    "similarity": 0.7671217372223232
+  },
+  "United Therapeutics Corporation": {
+    "ticker": "UTHR",
+    "sec_name": "UNITED THERAPEUTICS Corp",
+    "similarity": 1.0000000000000007
+  },
+  "Deutsche Post AG": {
+    "ticker": "DB",
+    "sec_name": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
+    "similarity": 0.68388087574287
+  },
+  "Garmin International, Inc.": {
+    "ticker": "GRMN",
+    "sec_name": "GARMIN LTD",
+    "similarity": 1.0000000000000002
+  },
+  "Ligand Pharmaceuticals Incorporated": {
+    "ticker": "LGND",
+    "sec_name": "LIGAND PHARMACEUTICALS INC",
+    "similarity": 0.8100119611748327
+  },
+  "Miner Enterprises, Inc.": {
+    "ticker": "WERN",
+    "sec_name": "WERNER ENTERPRISES INC",
+    "similarity": 0.7386259395779553
+  },
+  "OPEN TEXT INC.": {
+    "ticker": "OTEX",
+    "sec_name": "OPEN TEXT CORP",
+    "similarity": 1.0000000000000004
+  },
+  "MATERION CORPORATION": {
+    "ticker": "MTRN",
+    "sec_name": "MATERION Corp",
+    "similarity": 1.0
+  },
+  "Progressive International Corp.": {
+    "ticker": "PGR",
+    "sec_name": "PROGRESSIVE CORP/OH/",
+    "similarity": 0.9082240501545449
+  },
+  "HNI Technologies Inc.": {
+    "ticker": "HNI",
+    "sec_name": "HNI CORP",
+    "similarity": 1.0000000000000002
+  },
+  "CHECK POINT SOFTWARE TECHNOLOGIES LTD.": {
+    "ticker": "CHKP",
+    "sec_name": "CHECK POINT SOFTWARE TECHNOLOGIES LTD",
+    "similarity": 1.0
+  },
+  "ABB S.p.A.": {
+    "ticker": "ABLZF",
+    "sec_name": "ABB LTD",
+    "similarity": 0.8535285453468399
+  },
+  "Sturm, Ruger & Company, Inc.": {
+    "ticker": "RGR",
+    "sec_name": "STURM RUGER & CO INC",
+    "similarity": 1.0000000000000002
+  },
+  "Baxter Aktiengesellschaft": {
+    "ticker": "BAX",
+    "sec_name": "BAXTER INTERNATIONAL INC",
+    "similarity": 1.0
+  },
+  "Spectrum Brands, Inc.": {
+    "ticker": "SPB",
+    "sec_name": "Spectrum Brands Holdings, Inc.",
+    "similarity": 1.0000000000000002
+  },
+  "Stoneridge Control Devices, Inc.": {
+    "ticker": "SRI",
+    "sec_name": "STONERIDGE INC",
+    "similarity": 0.6875951923441301
+  },
+  "Seagate Technology International": {
+    "ticker": "STX",
+    "sec_name": "Seagate Technology Holdings plc",
+    "similarity": 1.0
+  },
+  "Superconductor Technologies Inc.": {
+    "ticker": "AMSC",
+    "sec_name": "AMERICAN SUPERCONDUCTOR CORP /DE/",
+    "similarity": 0.8253218000844423
+  },
+  "LSI Industries, Inc.": {
+    "ticker": "LYTS",
+    "sec_name": "LSI INDUSTRIES INC",
+    "similarity": 1.0
+  },
+  "Ametek, Inc.": {
+    "ticker": "AME",
+    "sec_name": "AMETEK INC/",
+    "similarity": 1.0000000000000002
+  },
+  "Smith Micro Software, Inc.": {
+    "ticker": "SMSI",
+    "sec_name": "SMITH MICRO SOFTWARE, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "Western Digital": {
+    "ticker": "WDC",
+    "sec_name": "WESTERN DIGITAL CORP",
+    "similarity": 1.0000000000000007
+  },
+  "Barclays Capital Inc.": {
+    "ticker": "BCS",
+    "sec_name": "BARCLAYS PLC",
+    "similarity": 0.8335643454429235
+  },
+  "Manitowoc Crane Companies, LLC": {
+    "ticker": "MTW",
+    "sec_name": "MANITOWOC CO INC",
+    "similarity": 0.7163094986748908
+  },
+  "ELTEK S.p.A.": {
+    "ticker": "ELTK",
+    "sec_name": "ELTEK LTD",
+    "similarity": 0.9039456146976692
+  },
+  "Masco Corporation": {
+    "ticker": "MAS",
+    "sec_name": "MASCO CORP /DE/",
+    "similarity": 0.8927099480553427
+  },
+  "University Technologies International, Inc.": {
+    "ticker": "UNIB",
+    "sec_name": "UNIVERSITY BANCORP INC /DE/",
+    "similarity": 0.6918434197281812
+  },
+  "Unilever Patent Holdings B.V.": {
+    "ticker": "UL",
+    "sec_name": "UNILEVER PLC",
+    "similarity": 0.7539652947322015
+  },
+  "Johnson & Johnson GmbH": {
+    "ticker": "JNJ",
+    "sec_name": "JOHNSON & JOHNSON",
+    "similarity": 1.0000000000000002
+  },
+  "American GNC Corp.": {
+    "ticker": "AIG",
+    "sec_name": "AMERICAN INTERNATIONAL GROUP, INC.",
+    "similarity": 0.6956052458007419
+  },
+  "U-HAUL INTERNATIONAL, INC.": {
+    "ticker": "UHAL",
+    "sec_name": "U-Haul Holding Co /NV/",
+    "similarity": 0.704556085663038
+  },
+  "Harmonic, Inc.": {
+    "ticker": "HLIT",
+    "sec_name": "HARMONIC INC.",
+    "similarity": 1.0
+  },
+  "Key Technology, Inc.": {
+    "ticker": "BKYI",
+    "sec_name": "BIO KEY INTERNATIONAL INC",
+    "similarity": 0.8022724427894796
+  },
+  "LINDSAY CORPORATION": {
+    "ticker": "LNN",
+    "sec_name": "LINDSAY CORP",
+    "similarity": 1.0
+  },
+  "ION Geophysical Corporation": {
+    "ticker": "DWSN",
+    "sec_name": "DAWSON GEOPHYSICAL CO",
+    "similarity": 0.7133163429904957
+  },
+  "Neonode Inc.": {
+    "ticker": "NEON",
+    "sec_name": "Neonode Inc.",
+    "similarity": 1.0000000000000002
+  },
+  "ONCOLYTICS BIOTECH INC.": {
+    "ticker": "ONCY",
+    "sec_name": "ONCOLYTICS BIOTECH INC",
+    "similarity": 1.0000000000000002
+  },
+  "Pluris, Inc.": {
+    "ticker": "PLUR",
+    "sec_name": "Pluri Inc.",
+    "similarity": 0.743959617873903
+  },
+  "Interface, Inc.": {
+    "ticker": "TILE",
+    "sec_name": "INTERFACE INC",
+    "similarity": 1.0
+  },
+  "Suncor Energy Inc.": {
+    "ticker": "SU",
+    "sec_name": "SUNCOR ENERGY INC",
+    "similarity": 1.0
+  },
+  "BORGWARNER BERU SYSTEMS GMBH": {
+    "ticker": "BWA",
+    "sec_name": "BORGWARNER INC",
+    "similarity": 0.8505185418439439
+  },
+  "PALATIN TECHNOLOGIES, INC.": {
+    "ticker": "PTN",
+    "sec_name": "PALATIN TECHNOLOGIES INC",
+    "similarity": 1.0000000000000002
+  },
+  "W.W. Grainger, Inc.": {
+    "ticker": "GWW",
+    "sec_name": "W.W. GRAINGER, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "TRINITY INDUSTRIAL CORPORATION": {
+    "ticker": "TRN",
+    "sec_name": "TRINITY INDUSTRIES INC",
+    "similarity": 0.8525410418337731
+  },
+  "Chevron Chemical Co.": {
+    "ticker": "CVX",
+    "sec_name": "CHEVRON CORP",
+    "similarity": 0.8398176456778799
+  },
+  "Oshkosh Truck Corporation": {
+    "ticker": "OSK",
+    "sec_name": "OSHKOSH CORP",
+    "similarity": 0.8582426697787067
+  },
+  "The Eastern Company": {
+    "ticker": "EML",
+    "sec_name": "EASTERN CO",
+    "similarity": 1.0000000000000002
+  },
+  "NASDAQ OMX Group, Inc.": {
+    "ticker": "NDAQ",
+    "sec_name": "NASDAQ, INC.",
+    "similarity": 0.8163814981311805
+  },
+  "Humana Inc.": {
+    "ticker": "HUM",
+    "sec_name": "HUMANA INC",
+    "similarity": 1.0000000000000002
+  },
+  "VALE S.A.": {
+    "ticker": "VALE",
+    "sec_name": "Vale S.A.",
+    "similarity": 1.0
+  },
+  "General Electric Capital Corporation": {
+    "ticker": "GE",
+    "sec_name": "GENERAL ELECTRIC CO",
+    "similarity": 0.826485527474866
+  },
+  "Radware Ltd.": {
+    "ticker": "RDWR",
+    "sec_name": "RADWARE LTD",
+    "similarity": 1.0000000000000002
+  },
+  "SASOL TECHNOLOGY (PTY.) LIMITED": {
+    "ticker": "SSL",
+    "sec_name": "SASOL LTD",
+    "similarity": 0.8024913734610568
+  },
+  "Zenon Environmental Inc.": {
+    "ticker": "BNET",
+    "sec_name": "BION ENVIRONMENTAL TECHNOLOGIES INC",
+    "similarity": 0.7805736314133712
+  },
+  "Trimble AB": {
+    "ticker": "TRMB",
+    "sec_name": "TRIMBLE INC.",
+    "similarity": 0.9139585054836914
+  },
+  "Acuity Brands, Inc.": {
+    "ticker": "AYI",
+    "sec_name": "ACUITY INC. (DE)",
+    "similarity": 0.7021495641507011
+  },
+  "SAREPTA THERAPEUTICS, INC.": {
+    "ticker": "SRPT",
+    "sec_name": "Sarepta Therapeutics, Inc.",
+    "similarity": 1.0000000000000002
+  },
+  "TREDEGAR FILM PRODUCTS LLC": {
+    "ticker": "TG",
+    "sec_name": "TREDEGAR CORP",
+    "similarity": 0.7083389465324015
+  },
+  "Hormel Foods Corporation": {
+    "ticker": "HRL",
+    "sec_name": "HORMEL FOODS CORP /DE/",
+    "similarity": 0.9559156384151403
+  },
+  "TETRA Technologies, Inc.": {
+    "ticker": "TTI",
+    "sec_name": "TETRA TECHNOLOGIES INC",
+    "similarity": 1.0
+  },
+  "Haemonetics Corporation": {
+    "ticker": "HAE",
+    "sec_name": "HAEMONETICS CORP",
+    "similarity": 1.0000000000000002
+  },
+  "LUMENS CO., LTD.": {
+    "ticker": "LUMN",
+    "sec_name": "Lumen Technologies, Inc.",
+    "similarity": 0.7579816695968351
+  },
+  "V TECHNOLOGY CO., LTD.": {
+    "ticker": "VFC",
+    "sec_name": "V F CORP",
+    "similarity": 0.6835274163115848
+  },
+  "Edison Nation, LLC": {
+    "ticker": "EIX",
+    "sec_name": "EDISON INTERNATIONAL",
+    "similarity": 0.8204237224457017
+  },
+  "AGCO International GmbH": {
+    "ticker": "AGCO",
+    "sec_name": "AGCO CORP /DE",
+    "similarity": 0.9137481552387785
+  },
+  "CompX International Inc.": {
+    "ticker": "CIX",
+    "sec_name": "COMPX INTERNATIONAL INC",
+    "similarity": 0.9999999999999999
+  },
+  "FTI Consulting Technology LLC": {
+    "ticker": "FCN",
+    "sec_name": "FTI CONSULTING, INC",
+    "similarity": 1.0000000000000002
+  },
+  "AEHR TEST SYSTEMS": {
+    "ticker": "AEHR",
+    "sec_name": "AEHR TEST SYSTEMS",
+    "similarity": 1.0
+  },
+  "CSP Technologies, Inc.": {
+    "ticker": "CSPI",
+    "sec_name": "CSP INC /MA/",
+    "similarity": 0.8701769526589066
+  },
+  "JAKKS PACIFIC INC.": {
+    "ticker": "JAKK",
+    "sec_name": "JAKKS PACIFIC INC",
+    "similarity": 1.0
+  },
+  "Progress Software Corporation": {
+    "ticker": "PRGS",
+    "sec_name": "PROGRESS SOFTWARE CORP /MA",
+    "similarity": 0.9555104623947616
+  },
+  "UBS AG": {
+    "ticker": "UBS",
+    "sec_name": "UBS Group AG",
+    "similarity": 1.0
+  },
+  "Micron Technologies, Inc.": {
+    "ticker": "MU",
+    "sec_name": "MICRON TECHNOLOGY INC",
+    "similarity": 1.0
+  },
+  "AptarGroup, Inc.": {
+    "ticker": "ATR",
+    "sec_name": "APTARGROUP, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "Belden Inc.": {
+    "ticker": "BDC",
+    "sec_name": "BELDEN INC.",
+    "similarity": 1.0000000000000002
+  },
+  "Dentsply Sirona Inc.": {
+    "ticker": "XRAY",
+    "sec_name": "DENTSPLY SIRONA Inc.",
+    "similarity": 1.0000000000000002
+  },
+  "H.B. Fuller Company": {
+    "ticker": "FUL",
+    "sec_name": "FULLER H B CO",
+    "similarity": 1.0
+  },
+  "Global IP Holdings, LLC": {
+    "ticker": "GTLL",
+    "sec_name": "GLOBAL TECHNOLOGIES LTD",
+    "similarity": 0.840489124486803
+  },
+  "American Technology Corporation": {
+    "ticker": "AIG",
+    "sec_name": "AMERICAN INTERNATIONAL GROUP, INC.",
+    "similarity": 1.0
+  },
+  "SANMINA-SCI CORPORATION": {
+    "ticker": "SANM",
+    "sec_name": "SANMINA CORP",
+    "similarity": 0.8713743265391871
+  },
+  "STRATTEC SECURITY CORPORATION": {
+    "ticker": "STRT",
+    "sec_name": "STRATTEC SECURITY CORP",
+    "similarity": 1.0
+  },
+  "CAMTEK Ltd.": {
+    "ticker": "CAMT",
+    "sec_name": "CAMTEK LTD",
+    "similarity": 1.0
+  },
+  "Medi&Gene Inc.": {
+    "ticker": "MEDG",
+    "sec_name": "MEDI Group Ltd",
+    "similarity": 0.7287592764771363
+  },
+  "Biogen Inc.": {
+    "ticker": "BIIB",
+    "sec_name": "BIOGEN INC.",
+    "similarity": 1.0000000000000002
+  },
+  "CURTISS-WRIGHT FLOW CONTROL CORPORATION": {
+    "ticker": "CW",
+    "sec_name": "CURTISS WRIGHT CORP",
+    "similarity": 0.7817332380619577
+  },
+  "MICROELECTRONICS TECHNOLOGY, INC.": {
+    "ticker": "UMC",
+    "sec_name": "UNITED MICROELECTRONICS CORP",
+    "similarity": 0.8669664361248082
+  },
+  "Cisco Technologies, Inc.": {
+    "ticker": "CSCO",
+    "sec_name": "CISCO SYSTEMS, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "United Defense LP": {
+    "ticker": "DTII",
+    "sec_name": "DEFENSE TECHNOLOGIES INTERNATIONAL CORP.",
+    "similarity": 0.74712274824979
+  },
+  "Badger Meter, Inc.": {
+    "ticker": "BMI",
+    "sec_name": "BADGER METER INC",
+    "similarity": 1.0000000000000002
+  },
+  "THE HARTZ MOUNTAIN CORP.": {
+    "ticker": "QZMRF",
+    "sec_name": "QUARTZ MOUNTAIN RESOURCES LTD",
+    "similarity": 0.693928343092271
+  },
+  "ABB Service S.R.L": {
+    "ticker": "SCI",
+    "sec_name": "SERVICE CORP INTERNATIONAL",
+    "similarity": 0.7086649959880926
+  },
+  "ARROWHEAD CENTER, INC": {
+    "ticker": "ARWR",
+    "sec_name": "ARROWHEAD PHARMACEUTICALS, INC.",
+    "similarity": 0.684102012133851
+  },
+  "QuickLogic Corporation": {
+    "ticker": "QUIK",
+    "sec_name": "QUICKLOGIC Corp",
+    "similarity": 1.0000000000000002
+  },
+  "Altec Industries, Inc.": {
+    "ticker": "ALTX",
+    "sec_name": "ALTEX INDUSTRIES INC",
+    "similarity": 0.7736127912424056
+  },
+  "Siga Technologies, Inc.": {
+    "ticker": "SIGA",
+    "sec_name": "SIGA TECHNOLOGIES INC",
+    "similarity": 1.0
+  },
+  "Zebra Imaging, Inc.": {
+    "ticker": "ZBRA",
+    "sec_name": "ZEBRA TECHNOLOGIES CORP",
+    "similarity": 0.7554247567982509
+  },
+  "CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.": {
+    "ticker": "ED",
+    "sec_name": "CONSOLIDATED EDISON INC",
+    "similarity": 0.8264348096431372
+  },
+  "BioCardia Inc.": {
+    "ticker": "BCDA",
+    "sec_name": "BioCardia, Inc.",
+    "similarity": 1.0000000000000002
+  },
+  "Amtech Systems, LLC": {
+    "ticker": "ASYS",
+    "sec_name": "AMTECH SYSTEMS INC",
+    "similarity": 1.0
+  },
+  "VirnetX, Inc.": {
+    "ticker": "VHC",
+    "sec_name": "VirnetX Holding Corp",
+    "similarity": 0.8472900605148979
+  },
+  "Nektar Therapeutics AL, Corporation": {
+    "ticker": "NKTR",
+    "sec_name": "NEKTAR THERAPEUTICS",
+    "similarity": 0.9546282098236272
+  },
+  "Cardinal Health 303, Inc.": {
+    "ticker": "CAH",
+    "sec_name": "CARDINAL HEALTH INC",
+    "similarity": 0.7731646814851831
+  },
+  "IMAX CORPORATION": {
+    "ticker": "IMAX",
+    "sec_name": "IMAX CORP",
+    "similarity": 1.0000000000000002
+  },
+  "NEXTER SYSTEMS": {
+    "ticker": "NEE",
+    "sec_name": "NEXTERA ENERGY INC",
+    "similarity": 0.6928882600576515
+  },
+  "Chunghwa Telecom Co., Ltd.": {
+    "ticker": "CHT",
+    "sec_name": "CHUNGHWA TELECOM CO LTD",
+    "similarity": 1.0000000000000002
+  },
+  "Tenaris Connections Limited": {
+    "ticker": "TS",
+    "sec_name": "TENARIS SA",
+    "similarity": 0.6850125908274589
+  },
+  "NVE Corporation": {
+    "ticker": "NVEC",
+    "sec_name": "NVE CORP /NEW/",
+    "similarity": 0.7726838680040955
+  },
+  "AVNERA CORPORATION": {
+    "ticker": "AVT",
+    "sec_name": "AVNET INC",
+    "similarity": 0.6820120377729316
+  },
+  "Metso Minerals, Inc.": {
+    "ticker": "MTX",
+    "sec_name": "MINERALS TECHNOLOGIES INC",
+    "similarity": 0.6983235516865794
+  },
+  "Wolverine World Wide, Inc.": {
+    "ticker": "WWW",
+    "sec_name": "WOLVERINE WORLD WIDE INC /DE/",
+    "similarity": 0.9755187290969569
+  },
+  "Astec Industries, Inc.": {
+    "ticker": "ASTE",
+    "sec_name": "ASTEC INDUSTRIES INC",
+    "similarity": 1.0
+  },
+  "Thorley Industries, LLC": {
+    "ticker": "THO",
+    "sec_name": "THOR INDUSTRIES INC",
+    "similarity": 0.7100829950156726
+  },
+  "TOYOTA MOTOR SALES, U.S.A., INC.": {
+    "ticker": "TM",
+    "sec_name": "TOYOTA MOTOR CORP/",
+    "similarity": 0.8057303715753544
+  },
+  "KVH Industries, Inc.": {
+    "ticker": "KVHI",
+    "sec_name": "KVH INDUSTRIES INC \\DE\\",
+    "similarity": 0.9549925110770541
+  },
+  "PHOTRONICS, INC.": {
+    "ticker": "PLAB",
+    "sec_name": "PHOTRONICS INC",
+    "similarity": 1.0
+  },
+  "Terex USA, LLC": {
+    "ticker": "TEX",
+    "sec_name": "TEREX CORP",
+    "similarity": 0.8064036608860797
+  },
+  "Kimberly-Clark Inc.": {
+    "ticker": "KMB",
+    "sec_name": "KIMBERLY CLARK CORP",
+    "similarity": 1.0000000000000002
+  },
+  "Arcelormittal France": {
+    "ticker": "MT",
+    "sec_name": "ArcelorMittal",
+    "similarity": 0.8871099454969988
+  },
+  "IDEX ASA": {
+    "ticker": "IEX",
+    "sec_name": "IDEX CORP /DE/",
+    "similarity": 0.7080194570037907
+  },
+  "Johnson & Johnson Medical GMBH": {
+    "ticker": "JNJ",
+    "sec_name": "JOHNSON & JOHNSON",
+    "similarity": 0.9460407654707873
+  },
+  "Omnicell, Inc.": {
+    "ticker": "OMCL",
+    "sec_name": "OMNICELL, INC.",
+    "similarity": 1.0
+  },
+  "Innospec Limited": {
+    "ticker": "IOSP",
+    "sec_name": "INNOSPEC INC.",
+    "similarity": 1.0
+  },
+  "Horizon International Inc.": {
+    "ticker": "FHN",
+    "sec_name": "FIRST HORIZON CORP",
+    "similarity": 0.8066718406660397
+  },
+  "AGCO SA": {
+    "ticker": "AGCO",
+    "sec_name": "AGCO CORP /DE",
+    "similarity": 0.9137481552387785
+  },
+  "Kennametal PC Inc.": {
+    "ticker": "KMT",
+    "sec_name": "KENNAMETAL INC",
+    "similarity": 0.8785290784847999
+  },
+  "Equinix, Inc.": {
+    "ticker": "EQIX",
+    "sec_name": "EQUINIX INC",
+    "similarity": 1.0
+  },
+  "McKesson Automation, Inc.": {
+    "ticker": "MCK",
+    "sec_name": "MCKESSON CORP",
+    "similarity": 0.7850226184486266
+  },
+  "Alkermes, Inc.": {
+    "ticker": "ALKS",
+    "sec_name": "Alkermes plc.",
+    "similarity": 1.0000000000000002
+  },
+  "CAE Inc.": {
+    "ticker": "CAE",
+    "sec_name": "CAE INC",
+    "similarity": 1.0
+  },
+  "West Pharmaceutical Services, Inc.": {
+    "ticker": "WST",
+    "sec_name": "WEST PHARMACEUTICAL SERVICES INC",
+    "similarity": 0.9999999999999998
+  },
+  "Starbucks Corporation": {
+    "ticker": "SBUX",
+    "sec_name": "STARBUCKS CORP",
+    "similarity": 1.0
+  },
+  "Tri State Distribution, Inc.": {
+    "ticker": "DSGR",
+    "sec_name": "Distribution Solutions Group, Inc.",
+    "similarity": 0.7052313558616833
+  },
+  "LJ Laboratories LLC": {
+    "ticker": "CLB",
+    "sec_name": "Core Laboratories Inc. /DE/",
+    "similarity": 0.6956550958847717
+  },
+  "LIVEPERSON, INC.": {
+    "ticker": "LPSN",
+    "sec_name": "LIVEPERSON INC",
+    "similarity": 0.9999999999999999
+  },
+  "Data I/O Corporation": {
+    "ticker": "DAIO",
+    "sec_name": "DATA I/O CORP",
+    "similarity": 1.0
+  },
+  "Tyson Foods, Inc.": {
+    "ticker": "TSN",
+    "sec_name": "TYSON FOODS, INC.",
+    "similarity": 1.0000000000000004
+  },
+  "Edwards Lifesciences CardiAQ LLC": {
+    "ticker": "EW",
+    "sec_name": "Edwards Lifesciences Corp",
+    "similarity": 0.8344728747241246
+  },
+  "SANGAMO THERAPEUTICS, INC.": {
+    "ticker": "SGMO",
+    "sec_name": "SANGAMO THERAPEUTICS, INC",
+    "similarity": 1.0000000000000002
+  },
+  "REATA PHARMACEUTICALS HOLDINGS, LLC": {
+    "ticker": "ARMP",
+    "sec_name": "Armata Pharmaceuticals, Inc.",
+    "similarity": 0.7665871112705384
+  },
+  "LANTRONIX, INC.": {
+    "ticker": "LTRX",
+    "sec_name": "LANTRONIX INC",
+    "similarity": 1.0000000000000002
+  },
+  "Rockwell Automation, Inc.": {
+    "ticker": "ROK",
+    "sec_name": "ROCKWELL AUTOMATION, INC",
+    "similarity": 1.0
+  },
+  "Freeport-McMoRan, Inc.": {
+    "ticker": "FCX",
+    "sec_name": "FREEPORT-MCMORAN INC",
+    "similarity": 1.0000000000000002
+  },
+  "PTC Inc.": {
+    "ticker": "PTC",
+    "sec_name": "PTC INC.",
+    "similarity": 1.0
+  },
+  "Arrowhead Pharmaceuticals, Inc.": {
+    "ticker": "ARWR",
+    "sec_name": "ARROWHEAD PHARMACEUTICALS, INC.",
+    "similarity": 1.0000000000000002
+  },
+  "Sanmina Corporation": {
+    "ticker": "SANM",
+    "sec_name": "SANMINA CORP",
+    "similarity": 1.0000000000000002
+  },
+  "Preformed Line Products Co.": {
+    "ticker": "PLPC",
+    "sec_name": "PREFORMED LINE PRODUCTS CO",
+    "similarity": 1.0000000000000002
+  },
+  "The Southern Company": {
+    "ticker": "SO",
+    "sec_name": "SOUTHERN CO",
+    "similarity": 1.0000000000000002
+  },
+  "Federal Home Loan Mortgage Corporation": {
+    "ticker": "FMCC",
+    "sec_name": "FEDERAL HOME LOAN MORTGAGE CORP",
+    "similarity": 1.0
+  },
+  "TransAct Technologies Incorporated": {
+    "ticker": "TACT",
+    "sec_name": "TRANSACT TECHNOLOGIES INC",
+    "similarity": 0.7181935523870053
+  },
+  "BioCryst Pharmaceuticals, Inc.": {
+    "ticker": "BCRX",
+    "sec_name": "BIOCRYST PHARMACEUTICALS INC",
+    "similarity": 0.9999999999999998
+  },
+  "MERCURY COMPUTER SYSTEMS, INC.": {
+    "ticker": "MRCY",
+    "sec_name": "MERCURY SYSTEMS INC",
+    "similarity": 0.7325463646578674
+  },
+  "VIAVI Solutions UK Limited": {
+    "ticker": "VIAV",
+    "sec_name": "VIAVI SOLUTIONS INC.",
+    "similarity": 0.91728298937249
+  },
+  "Orthofix S.R.L.": {
+    "ticker": "OFIX",
+    "sec_name": "Orthofix Medical Inc.",
+    "similarity": 0.8203495073174596
+  },
+  "R.A. Miller Industries, Inc.": {
+    "ticker": "MLR",
+    "sec_name": "MILLER INDUSTRIES INC /TN/",
+    "similarity": 0.832880254870219
+  },
+  "Titan Spine, LLC": {
+    "ticker": "TWI",
+    "sec_name": "TITAN INTERNATIONAL INC",
+    "similarity": 0.7269915406169207
+  },
+  "Rambus International Ltd.": {
+    "ticker": "RMBS",
+    "sec_name": "RAMBUS INC",
+    "similarity": 1.0000000000000002
+  },
+  "Standex International Corporation": {
+    "ticker": "SXI",
+    "sec_name": "STANDEX INTERNATIONAL CORP/DE/",
+    "similarity": 0.9240953029210124
+  },
+  "INNOVATIVE SOLUTIONS & SUPPORT, INC.": {
+    "ticker": "ISSC",
+    "sec_name": "INNOVATIVE SOLUTIONS & SUPPORT INC",
+    "similarity": 1.0000000000000002
+  },
+  "Cerus Corporation": {
+    "ticker": "CERS",
+    "sec_name": "CERUS CORP",
+    "similarity": 1.0
+  },
+  "Insmed Incorporated": {
+    "ticker": "INSM",
+    "sec_name": "INSMED Inc",
+    "similarity": 0.711861172245994
+  },
+  "Canadian National Railway Company": {
+    "ticker": "CNI",
+    "sec_name": "CANADIAN NATIONAL RAILWAY CO",
+    "similarity": 1.0000000000000002
+  },
+  "Integra LifeSciences Corporation": {
+    "ticker": "IART",
+    "sec_name": "INTEGRA LIFESCIENCES HOLDINGS CORP",
+    "similarity": 0.9999999999999999
+  },
+  "VISHAY INTERTECHNOLOGY, INC.": {
+    "ticker": "VSH",
+    "sec_name": "VISHAY INTERTECHNOLOGY INC",
+    "similarity": 1.0000000000000002
+  },
+  "Mitek Systems, Inc.": {
+    "ticker": "MITK",
+    "sec_name": "MITEK SYSTEMS INC",
+    "similarity": 1.0
+  },
+  "AUDIOCODES LTD.": {
+    "ticker": "AUDC",
+    "sec_name": "AUDIOCODES LTD",
+    "similarity": 1.0000000000000002
+  },
+  "The Toronto-Dominion Bank": {
+    "ticker": "TD",
+    "sec_name": "TORONTO DOMINION BANK",
+    "similarity": 1.0000000000000002
+  },
+  "Applied Materials GmbH & Co. KG": {
+    "ticker": "AMAT",
+    "sec_name": "APPLIED MATERIALS INC /DE",
+    "similarity": 0.9052026848074908
+  },
+  "Par Pharmaceutical, Inc.": {
+    "ticker": "CTTH",
+    "sec_name": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+    "similarity": 0.6916859952307411
+  },
+  "STAAR Surgical Company": {
+    "ticker": "STAA",
+    "sec_name": "STAAR SURGICAL CO",
+    "similarity": 1.0
+  },
+  "ENI Technology, Inc.": {
+    "ticker": "E",
+    "sec_name": "ENI SPA",
+    "similarity": 0.7206392797173052
+  },
+  "inTEST Corporation": {
+    "ticker": "INTT",
+    "sec_name": "INTEST CORP",
+    "similarity": 1.0
+  },
+  "NICE LTD.": {
+    "ticker": "NICE",
+    "sec_name": "NICE Ltd.",
+    "similarity": 1.0
+  },
+  "Genus, Inc.": {
+    "ticker": "AGEN",
+    "sec_name": "AGENUS INC",
+    "similarity": 0.7905926125122811
+  },
+  "Kronos International, Inc.": {
+    "ticker": "KNOS",
+    "sec_name": "KRONOS ADVANCED TECHNOLOGIES INC",
+    "similarity": 0.7211641329955312
+  },
+  "The Prudential Insurance Company of America": {
+    "ticker": "PUK",
+    "sec_name": "PRUDENTIAL PLC",
+    "similarity": 0.69023788721924
+  },
+  "Novavax, Inc.": {
+    "ticker": "NVAX",
+    "sec_name": "NOVAVAX INC",
+    "similarity": 1.0
+  },
+  "Northern Power Systems, Inc.": {
+    "ticker": "NTIC",
+    "sec_name": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
+    "similarity": 0.804762335580476
+  },
+  "CANON U.S.A., INC.": {
+    "ticker": "CAJPY",
+    "sec_name": "CANON INC",
+    "similarity": 0.8464490769036833
+  },
+  "Lite-On Semiconductor Corporation": {
+    "ticker": "ON",
+    "sec_name": "ON SEMICONDUCTOR CORP",
+    "similarity": 0.8811913204166008
+  },
+  "Matthews Resources, Inc.": {
+    "ticker": "MATW",
+    "sec_name": "MATTHEWS INTERNATIONAL CORP",
+    "similarity": 0.8086870984805744
+  },
+  "Edgewell Personal Care Brands, LLC": {
+    "ticker": "EPC",
+    "sec_name": "EDGEWELL PERSONAL CARE Co",
+    "similarity": 0.8966159769287017
+  },
+  "Astora Women's Health, LLC": {
+    "ticker": "AWHL",
+    "sec_name": "Aspira Women's Health Inc.",
+    "similarity": 0.6831855273702103
+  },
+  "Astronics Advanced Electronic Systems Corp.": {
+    "ticker": "ATRO",
+    "sec_name": "ASTRONICS CORP",
+    "similarity": 0.6984321600976376
+  },
+  "Packaging Corporation of America": {
+    "ticker": "PKG",
+    "sec_name": "PACKAGING CORP OF AMERICA",
+    "similarity": 1.0
+  },
+  "The Andersons Inc.": {
+    "ticker": "ANDE",
+    "sec_name": "Andersons, Inc.",
+    "similarity": 1.0
+  },
+  "Minerals Technologies Inc.": {
+    "ticker": "MTX",
+    "sec_name": "MINERALS TECHNOLOGIES INC",
+    "similarity": 1.0000000000000002
+  }
+}
